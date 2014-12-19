@@ -1,0 +1,14 @@
+.sidebar {
+	width: 120px;
+}
+
+.content {
+	margin-left: 150px;
+}
+
+pre {
+	background-color: #eeeeee;
+	border: 1px solid #777777;
+	border-radius: 3px;
+	padding: 2px 3px;
+}
