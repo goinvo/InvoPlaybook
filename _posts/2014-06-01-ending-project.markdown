@@ -10,22 +10,24 @@ draft: false
 Send final invoice for the project to the client’s billing department. Notify Invo’ite responsible for billing.
 
 ### In 2 Business Days of Project Completion
-Project lead sends Client the [Client Exit Survey](http://goo.gl/forms/jge3n36Lh1). Here is an email template to send to the client.
+Send each person from the client team the [Client Exit Survey](http://goo.gl/forms/jge3n36Lh1). Here is an email template to individually send to each person from the client team. Optional: Make the message more personal by acknowledging the contribution that person added to the project.
+
 ``` html
-<clientName>,
-	
-	We’d like to get everyone’s honest feedback on how Invo did for the project.		Can everyone fill out this 5 minute survey?
+<clientName>,  
+
+We'd like to get your honest feedback on how Invo did for the project.  
+Can you fill out this 5 minute survey by tomorrow?  
 http://goo.gl/forms/jge3n36Lh1
 
-Thanks,
+Thanks,  
 <yourName>
 ```
 
 ### In 3 Business Days of Project Completion
-Project lead completes [Marketing Material Survey](http://goo.gl/forms/SfoP7uYVzR).
+Complete [Marketing Material Survey](http://goo.gl/forms/SfoP7uYVzR).
 
 ### In 5 Business Days of Project Completion
-Project lead reviews all Exit Survey responses from [client](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) and [invo team](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) and presents any interesting findings to the project, leadership, and sales team.
+Review all Exit Survey responses from [client responses](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) to [invo team responses](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) and presents any interesting findings to the project, leadership, and sales team.
 
 ## Team
 ### In 1 Business Day of Project Completion
