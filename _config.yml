@@ -6,7 +6,7 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Eric Benoit
+name: Invo Playbook
 url: http://playbook.goinvo.com
 description: Your guide to being an Invo'ite.
-twitter: ebenoit
+twitter: goinvo

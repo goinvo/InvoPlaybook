@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="{{ site.github.url }}/css/pygments.css" type="text/css" />
   <link media="only screen and (max-device-width: 480px)" href="{{ site.github.url }}/css/mobile.css" type="text/css" rel="stylesheet" />
   <link media="only screen and (device-width: 768px)" href="{{ site.github.url }}/css/mobile.css" type="text/css" rel="stylesheet" />
+  <link media="only screen and (device-width: 768px)" href="{{ site.github.url }}/css/custom.css" type="text/css" rel="stylesheet" />
   <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
   <link rel="apple-touch-icon" href="{{ site.github.url }}/apple-touch-icon.png" />
 
@@ -41,15 +42,20 @@
     </section>
 
     <section class="meta">
-      <a href="{{ site.github.owner_url }}" target="_blank"><i class="fa fa-github"></i></a>
+      <a href="https://github.com/goinvo/InvoPlaybook" target="_blank"><i class="fa fa-github"></i></a>
       <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
       <a href="/atom.xml"><i class="fa fa-rss"></i></a>
     </section>
 
     <section class="sections">
       <ul>
-        <li><a href="/about.html">about</a></li>
-        <li><a href="/">posts</a></li>
+        {% for post in site.posts %}
+          {% unless post.draft %}
+          <li>
+            <span><a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+          {% endunless %}
+        {% endfor %}
       </ul>
     </section>
   </section>
