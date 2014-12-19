@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Meetings
+title: Weekly Meetings (wip)
 category: posts
 draft: false
 ---
