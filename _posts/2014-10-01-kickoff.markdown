@@ -5,6 +5,11 @@ category: posts
 draft: false
 ---
 
-Nothing yet.
+## Lead
+
+Invite all stakeholders to Basecamp project. Add invo’ites to “Our Team” and client team to “The Client”.  
+Create project schedule, including regular meetings and weekly deliverables. Share with all stakeholders on Baseceamp.  
+Create project spec 1-pager document. Example to be created.  
+Send message to client about using basecamp and email list for all comm. Stub out an example email.
 
 ---
