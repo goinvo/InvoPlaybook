@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dropbox (wip)
+title: Dropbox
 category: posts
 draft: false
 ---

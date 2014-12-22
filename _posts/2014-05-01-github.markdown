@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github (wip)
+title: Github
 category: posts
 draft: false
 ---

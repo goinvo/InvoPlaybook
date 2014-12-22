@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Deliverables (wip)
+title: Common Deliverables
 category: posts
 draft: false
 ---

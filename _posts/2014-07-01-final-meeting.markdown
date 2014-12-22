@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Meeting (wip)
+title: Final Meeting
 category: posts
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Troubleshooting (wip)
+title: Troubleshooting
 category: posts
 draft: false
 ---

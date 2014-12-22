@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kickoff (wip)
+title: Kickoff
 category: posts
 draft: false
 ---
