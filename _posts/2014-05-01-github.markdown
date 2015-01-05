@@ -5,6 +5,41 @@ category: posts
 draft: false
 ---
 
-Nothing yet.
+Involution frequently develops software as part of a client engagement. This might be code for an internal project, a prototype for a client, or production code for a client. **Using [version control](http://en.wikipedia.org/wiki/Revision_control) is a studio requirement for any project involving software development**
+
+## Determine the Type of Repository
+If you are working with a client, ask the client if they prefer that we use their own internal version control system. If so, follow up with them on how to gain access to this system. In this case, the client will need to create a repository for us to work with.
+
+If the project you are working on is internal or the client does not request that we use their internal version control system, we will use a git repository hosted at Github.
+
+## Creating a Repository on Github
+Github has some [good documentation](https://help.github.com/articles/create-a-repo/) on how to create a repository. Here are a few things to note.
+
+### Private vs Public
+Because of Involution's commitment to open source software, we default repositories to be public whenever possible. If it is an internal project, check with the powers that be whether it is okay to make the repository public. **Always check with the client before creating a public repository on their behalf.**
+
+### Open Source Licenses
+If the repository is public, make sure to include a License. We generally use [Apache 2.0](http://choosealicense.com/licenses/apache-2.0/), but check out [this site from Github](http://choosealicense.com/) for some help.
+
+### Naming Conventions
+When naming a repository on Github, make the name [Pascal case](http://en.wikipedia.org/wiki/CamelCase) (camel case with the first letter capitalized). The repository name should start with the client's name and contain their product name (when relevant) as well as the project. Below are some examples:
+* **CodeRyteHSCUI**: The UI code for the HSC product created by CodeRyte.
+* **DataXuCampaignCreationPrototype**:The campaign creation prototype code for DataXu. In this case, they don't have a separate product name so it is not included. CampaignCreationPrototype describes the project.
+
+For projects that are owned by Invo, it is not necessary to include `Invo` in the repository title. In this case, give the repository a name which describes the software as a product. For example:
+
+* **BatchIDMLGenerator**: A tool, developed by Involution, which generates batches of IDML files.
+* **HealthAxioms**: The Health Axioms.
+* **InvoLive**: In this case, the word Invo is included because we call the product "InvoLive" and not just "Live".
+
+### Access 
+
+## Git Workflow
+### Branching and Merging
+We generally model our branching and merging strategy for projects off of the model outlined in [this article](http://nvie.com/posts/a-successful-git-branching-model/). Unless you have a strong reason to deviate (i.e. a client prefers a different workflow or you aren't using git), you should probably use this workflow.
+
+### Releasing Source Code
+**Whenever you release source code to a client, or push it to a production server, you should tag that release in git**. It is tedious to tag releases, but it is almost always a good idea. If there is some sort of additional work done as part of a "release" (i.e. adding `.mobileprovision` files or packaging an iOS application as an `IPA`), use the release functionality of Github to upload those extra dependencies.
+
 
 ---
