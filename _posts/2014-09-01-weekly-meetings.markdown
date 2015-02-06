@@ -13,8 +13,9 @@ Face to face is preferred.
 For remote meetings, use your preferred communication channel: GoToMeeting, Google Hangout, Skype, Phone. 	
 Duration: 1 to 1.5 hours. Adjust as needed.
 
+
 ### Prep
-Post deliverables on Basecamp 2 hours prior to meeting. 	
+Post deliverables on Basecamp 2 hours prior to meeting or the night before. Some clients review the deliverables in advance and come to the meeting already with feedback. Others use the scheduled time during the meeting to review the latest deliverables. Adjust as needed.
 Message structure on Basecamp for deliverables:  
 <ul>
 	<li>Subject: Deliverable name, version number, and current project week with total weeks (ex.
@@ -29,12 +30,17 @@ Message structure on Basecamp for deliverables:
 5 minutes: Summarize what you heard during the meeting and what you'll be working on for next week.
 
 ### Post Meeting 
-Within 24 hours of the meeting, type up your notes and post to Basecamp. 	
+Immediately document your notes and post to Basecamp after the meeting. 	
 Message structure on Basecamp:
 <ul>
 	<li>Subject: Meeting Notes, date of meeting, and current project week with total weeks (ex. 'Meeting Notes, 27.Oct.14 :: Week 8 of 10').</li>
 	<li>Message: Document the feedback, any changes in direction or schedule, and re-iterate what you’ll be working on for next week.</li>
 </ul>
+
+
+### Extra
+Take photos of the team and client engaged a few times throughout the project. These will be used to document the project and possibly for marketing.
+
 
 ## Lead
  
