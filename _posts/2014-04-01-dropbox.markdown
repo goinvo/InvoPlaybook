@@ -5,6 +5,63 @@ category: posts
 draft: false
 ---
 
-Nothing yet.
+## Team
+### Default Project Directory Structure
 
----
+``` html
+/Invo_Projects	 
+  /ClientName	 
+    /client	 
+      /background 	
+      /research	 
+    /design	 
+      /deliverables	 
+      /production	 
+      /research	 
+```
+
+`Invo_Projects` directory containing every project we work on.
+
+`ClientName` directory containing the project for a specific client.
+
+`client` directory containing all material received from the client. It's helpful to place  material received via email, basecamp, etc, in dropbox for a central, local location for all.
+
+`background` directory containing any information to understand the business, industry, product. This may include presenations, spreadsheets.
+
+`research` directory containing any research done by the client.
+
+`design` directory containing all material created by Invo.
+
+`deliverables` directory containing all material we've delivered to the client. Typically PDFs, but can also include spreadsheets, PSDs, and other documents that make sense.
+
+`production` directory containing files used to create our deliverables. 
+
+`research` directory containing research Invo has done.
+
+### Good Project Directory Structure
+
+``` html
+/Invo_Projects	 
+  /ClientName	 
+    /client	 
+      /background 	
+      /research	 
+    /design	 
+      /deliverables	 
+      /production	 
+      /research	 
+```
+
+### Bad Project Directory Structure
+
+``` html
+/Invo_Projects	 
+  /ClientName	 
+    /client	 
+      /background 	
+      /research	 
+    /design	 
+      /deliverables	 
+      /production	 
+      /research	 
+```
