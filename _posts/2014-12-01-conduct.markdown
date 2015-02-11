@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conduct
+title: Conduct*
 category: posts
 draft: false
 ---
@@ -9,11 +9,18 @@ draft: false
 
 Respond to client communication within 2 business hours.
 
-Code of Ethics:  
-Speak the Truth: We tell the truth to others, with the intention and in the way of trying to do the most possible good.  
-Make the World Useful, Beautiful and Delightful: We exercise the discipline required to produce ideas and things that are useful to and beautiful in the world.  
-Learn, Share & Build: We are curious, open creators who welcome new ideas and the input of others.  
-Be Vigilant: Identify and respond to inequality, protecting and serving the ideas, community and people in our world.  
-Go Like Hell: We are driven and committed to what we do, putting in extra effort in our quest for exceptional results.
+All project communication should be open to the entire team, by using the projects email listserv or Slack channel.
+
+### Code of Ethics:  
+**Speak the Truth** 	
+We tell the truth to others, with the intention and in the way of trying to do the most possible good.  
+**Make the World Useful, Beautiful and Delightful** 	
+We exercise the discipline required to produce ideas and things that are useful to and beautiful in the world.  
+**Learn, Share & Build** 	
+We are curious, open creators who welcome new ideas and the input of others.  
+**Be Vigilant** 	
+Identify and respond to inequality, protecting and serving the ideas, community and people in our world.  
+**Go Like Hell** 	
+We are driven and committed to what we do, putting in extra effort in our quest for exceptional results.
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Common Deliverables
+title: Common Deliverables*
 category: posts
 draft: false
 ---

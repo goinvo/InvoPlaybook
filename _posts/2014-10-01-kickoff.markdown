@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kickoff
+title: Kickoff*
 category: posts
 draft: false
 ---

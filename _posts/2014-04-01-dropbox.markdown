@@ -157,8 +157,10 @@ Each piece of the name is connected with an underscore `_` and is written in low
 
 Good Example:  
 `jnj_icb_engagement_models_v02.indd`  
-`jnj_icb_careplan_flow_v01.pdf`
+`jnj_icb_careplan_flow_v01.pdf`   
+`jnj_icb_careplan_flow_v01_draft.pdf`
 
 Bad Example:  
 `engagement.indd`   
-`Careplan_Flow_v01.pdf`
+`Careplan_Flow_v01.pdf`   
+`Careplan_Flow_DRAFT.pdf`
