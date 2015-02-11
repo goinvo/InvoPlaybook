@@ -11,6 +11,8 @@ We use Dropbox so backups are automated, file-sharing is easy, and all of our wo
 
 ### Default Project Directory Structure
 
+When starting a new project, use this structure as your starting point.
+
 ``` html
 /Invo_Projects	 
   /ClientName	 
@@ -25,7 +27,7 @@ We use Dropbox so backups are automated, file-sharing is easy, and all of our wo
 ```
 
 `Invo_Projects`   
-Every project we work on exists here. Any documents you place here is visible to the entire organization.
+Every project we work on exists here. Any documents you place here are visible to the entire organization.
 
 `ClientName`  
 Contains all the projects for a specific client. You'll be working inside of this directory.
