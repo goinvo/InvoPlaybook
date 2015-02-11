@@ -20,6 +20,7 @@ We use Dropbox so backups are automated, file-sharing is easy, and all of our wo
     /design	 
       /deliverables	 
       /production	 
+        /images   
       /research	 
 ```
 
@@ -36,7 +37,7 @@ All material received from the client. It's helpful to place documents received 
 Any information from the client to understand the business, industry, product.
 
 `research`  
-Any research done by the client.
+Any research provided by the client.
 
 `design`  
 All material created by Invo.
@@ -49,6 +50,8 @@ All files used to create our deliverables. Typically InDesign, Photoshop, Illust
 
 `research`  
 Any research Invo has done.
+
+Use subfolders at your discretion if you're needing another level of organization than the default structure provided.
 
 ### Good Project Directory Example
 
@@ -103,6 +106,7 @@ Using project directory template. Files in logical location. Design documents ar
       /design  
         /deliverables  
         /production  
+          /images   
         /research 
     /ProjectName2
       /client  
@@ -111,6 +115,7 @@ Using project directory template. Files in logical location. Design documents ar
       /design  
         /deliverables  
         /production  
+          /images   
         /research  
 ```
 
@@ -129,15 +134,29 @@ Use a logical name that defines the project.
       /phase1
         /deliverables  
         /production  
+          /images   
         /research  
       /phase2
         /deliverables  
         /production  
+          /images   
         /research  
 ```
 
 Rarely needed. Use your discretion. This can be flexible for phases or weeks.
 
-### Filenaming
+### Filenaming Convention
 
-TBD
+Minimally use for our production files and deliverables.
+
+`clientname` + `_` + `projectname` + `_` + `descriptivedeliverablename` + `_` + `v` + `versionnumber`
+
+Each piece of the name is connected with an underscore `_` and is written in lowercase. A version number should look like `v01` and not `v1`. It's acceptable to append `_draft` after the version number if it's an incomplete document.
+
+Good Example:  
+`jnj_icb_engagement_models_v02.indd`  
+`jnj_icb_careplan_flow_v01.pdf`
+
+Bad Example:  
+`engagement.indd`   
+`Careplan_Flow_v01.pdf`
