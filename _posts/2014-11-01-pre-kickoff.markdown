@@ -11,7 +11,7 @@ draft: false
 
 Create an email listserv for the Invo team working on the project. Format should follow `clientname-internal@goinvo.com`. An example is `walgreens-internal@goinvo.com`. [Setup listserv with Google Groups](https://admin.google.com/goinvo.com/AdminHome?pli=1&fral=1#GroupList:). An admin of the Google Business account will need to set this up. Just ask if you need help.
 
-[Add project](https://www.staffplan.com/projects/new) to StaffPlan. Sometimes the project may already exist in StaffPlan because we've done some pre-planning prior to a signed SOW. Add all team members for the project and their planned hours for the duration of the project. If the client does not exist, then [add the client](https://www.staffplan.com/clients/new).
+[Add project](https://www.staffplan.com/projects/new) to StaffPlan. Check if the project already exists in StaffPlan, sometimes we'll do pre-planning of staff prior to a signed Statement of Work (SoW). Add all team members for the project and their planned hours for the duration of the project. If the client does not exist, then [add the client](https://www.staffplan.com/clients/new).
 
 Setup Slack channel for the project. Channel name should follow `proj-client-name`. An example is `proj-dataxu`.  
 
@@ -19,7 +19,7 @@ Setup dropbox for internal team [following this structure]({% post_url 2014-04-0
 
 ### Two Weeks before Kickoff
 
-Schedule kickoff date(s) and times with the client. Also send over an agenda of kickoff.
+Schedule kickoff date(s) and times with the client. Also send over an agenda of kickoff (Agenda examples to be added).
 
 Send client and stakeholders the kickoff survey and ask for this to be completed within 5 days. But first [duplicate this kickoff survey](https://docs.google.com/forms/d/1Ii4KitXws0w85CLn_LQvLhOHL9p75dMMT2CCc0_iwwM/edit) and edit it for your project.
 
@@ -31,6 +31,6 @@ Notify Invo person responsible for billing when the first and subsequent invoice
 
 ## Team 
 
-Review SOW and discuss project with Sales team to understand the backstory of the project and stakeholders. 
+Review SoW and discuss project with Sales team to understand the backstory of the project and stakeholders. 
 
 ---
