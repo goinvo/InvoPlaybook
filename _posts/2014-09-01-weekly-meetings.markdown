@@ -23,6 +23,10 @@ Message structure on Basecamp for deliverables:
 	<li>Message: Describe what’s new in the deliverables, what you’d like to discuss in the meeting, and your next steps as you currently know them.</li>
 </ul>
 
+If meeting face to face, then print the deliverables using the large format printer and bring to the meeting. Printed deliverables are helpful for everyone to circle around, discuss, and mark up with feedback. Often, clients will hang these posters in their office for the entire company to have visibility into the design, see progression, and mark up as well ().
+![Writing feedback on printed deliverable](/images/printed-deliverable-feedback.jpg)
+![Passerby feedback in client office](/images/printed-deliverable-solicit-feedback.png)
+
 
 ### Meeting Agenda Template  
 5 minutes: Overivew of what you’ll be reviewing and what you’d like to get out of the meeting. 	
