@@ -3,7 +3,7 @@
 ## Installation
 
 - Install Jekyll: `gem install jekyll`
-- Run the jekyll server: `jekyll serve -w`
+- Run the jekyll server: `jekyll serve -w` or `jekyll s`
 
 You should have a server up and running locally at <http://localhost:4000>.
 
