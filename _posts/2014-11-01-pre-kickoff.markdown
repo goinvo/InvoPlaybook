@@ -18,8 +18,8 @@ Spend 2 hours doing the following research to understand the industry, business,
 	<li>Read the clients website</li>
 	<li>Read the key stakeholders LinkedIn profiles</li>
 	<li>Read the clients wikipedia page</li>
-	<li>Find the latest news on the client and their products</li>
-	<li>Find any competitors and understand what they do different</li>
+	<li>Read the latest news on the client and their product(s)</li>
+	<li>Find any competitors and understand what they do differently</li>
 </ul>
 
 
