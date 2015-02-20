@@ -11,7 +11,7 @@ We use Dropbox so backups are automated, file-sharing is easy, and all of our wo
 
 ### Default Project Directory Structure
 
-When starting a new project, use this [dropbox structure](https://www.dropbox.com/sh/jzituepk5fmdhip/AADZz5tMOmjAMOT-Yu2hw3pna?dl=0) as your starting point.
+When starting a new project, use this [dropbox structure](https://www.dropbox.com/sh/4hqpdnf5nkquexu/AADJZTKqxU8hqhkZkCH8MWgva?dl=0) as your starting point.
 
 ``` html
 /Invo_Projects	 
