@@ -5,6 +5,25 @@ category: posts
 draft: false
 ---
 
+Begins with a signed Statement of Work (SoW) from the client.
+
+## Team 
+
+### Immediately
+
+If you haven't been a part of the sales process for the project then review the SoW and discuss project with Sales team to understand the backstory of the project and stakeholders. 
+
+Also, spend 2 hours doing the following research to understand the industry, business, and team:
+<ul>
+	<li>Read the clients website</li>
+	<li>Read the key stakeholders LinkedIn profiles</li>
+	<li>Read the clients wikipedia page</li>
+	<li>Find the latest news on the client and their products</li>
+	<li>Find any competitors and understand what they do different</li>
+</ul>
+
+
+
 ## Lead
 
 ### Immediately
@@ -28,9 +47,5 @@ Send client and stakeholders the kickoff survey and ask for this to be completed
 Create Basecamp project. Project name should follow `ClientName: ProjectName` (ex. DataXu: Forecasting). An admin of Basecamp will need to set this up. Just ask if you need help.
 
 Notify Invo person responsible for billing when the first and subsequent invoices should be sent to the client.  
-
-## Team 
-
-Review SoW and discuss project with Sales team to understand the backstory of the project and stakeholders. 
 
 ---
