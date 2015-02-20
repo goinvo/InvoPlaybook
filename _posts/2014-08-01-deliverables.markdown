@@ -33,7 +33,9 @@ Every project has a schedule and should be roughly based on the Statement of Wor
 [PDF Example 1](https://www.dropbox.com/s/xxvlx1wyeegskw7/dataxu_dxp_schedule_v01.pdf?dl=0)
 
 ### Project + Product Spec
-Describes the project and product in a short 1-2 pager. Created with the client during kickoff so all parties have a central understanding. This document has 3 main sections: Vision, Background, Goals. Each section has a specific description for the project and product. 	
+Describes the project and product in a short 1-2 pager. This document has 3 main sections: Vision, Background, Goals. Each section has a specific description for the project and product. 	
+
+First draft is created based on the [client kickoff survey responses](https://www.linkedin.com/pub/cory-zue/0/692/85). During the kickoff we'll use that draft as a converstation starter to flesh out a v01 that all stakeholders agree to. This guides our purpose throughout the project. This is subject to evolve over time, so this document may need to be revised. 	
 [PDF Example 1](https://www.dropbox.com/s/dpjazxs0yioy5cn/jnj_icb_educational_spec_v02.pdf?dl=0) | [Pages](https://www.dropbox.com/sh/f0figqpn2qkqi8p/AABdrWrg6t4HkXlTYjVbPMOza?dl=0)
 
 ### Product Questions
