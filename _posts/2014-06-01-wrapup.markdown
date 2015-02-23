@@ -5,6 +5,13 @@ category: posts
 draft: false
 ---
 
+## Team
+### In 1 Business Day of Project Completion
+Entire team completes [Invo Exit Survey](http://goo.gl/forms/N6MZHjiOL3).
+
+Entire team pulls together a handful of the best designs, sketches, and photos to be used for marketing materials. Place logically named images in `dropbox` > `Graphics` > `Portfolio` > `<clientName>`.
+
+
 ## Lead
 ### In 1 Business Day of Project Completion
 Send final invoice for the project to the client’s billing department. Notify Invo’ite responsible for billing.
@@ -28,11 +35,5 @@ Complete [Marketing Material Survey](http://goo.gl/forms/SfoP7uYVzR).
 
 ### In 5 Business Days of Project Completion
 Review all Exit Survey responses from the [client](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) and [Invo](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) and present any interesting findings to the project, leadership, and sales team.
-
-## Team
-### In 1 Business Day of Project Completion
-Entire team completes [Invo Exit Survey](http://goo.gl/forms/N6MZHjiOL3).
-
-Entire team pulls together a handful of the best designs, sketches, and photos to be used for marketing materials. Place logically named images in `dropbox` > `Graphics` > `Portfolio` > `<clientName>`.
 
 ---
