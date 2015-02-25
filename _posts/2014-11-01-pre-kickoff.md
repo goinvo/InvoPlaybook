@@ -45,5 +45,3 @@ Send client and stakeholders the kickoff survey and ask for this to be completed
 Create Basecamp project. Project name should follow `ClientName: ProjectName` (ex. DataXu: Forecasting). An admin of Basecamp will need to set this up. Just ask if you need help.
 
 Notify Invo person responsible for billing when the first and subsequent invoices should be sent to the client.  
-
----

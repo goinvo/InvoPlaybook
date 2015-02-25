@@ -108,5 +108,3 @@ TBD
 
 ## Validation Process
 TBD
-
----
