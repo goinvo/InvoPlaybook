@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Weekly Meetings
-category: posts
-draft: false
 ---
 
 ## Team

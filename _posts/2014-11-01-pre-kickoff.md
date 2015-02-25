@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Pre-Kickoff
-category: posts
-draft: false
 ---
 
 Begins with a signed Statement of Work (SoW) from the client.

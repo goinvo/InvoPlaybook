@@ -1,12 +1,26 @@
-markdown: rdiscount
-permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-gems:
-  - jekyll-sitemap
+# Permalinks
+permalink:        none
+relative_permalinks: true
 
-name: Invo Playbook
-url: http://playbook.goinvo.com
-description: Your guide to being an Invo'ite.
-twitter: goinvo
+# Setup
+title:            Playbook
+tagline:          'A one stop guide to running projects at Invo.'
+description:      'A one stop guide to running projects at Invo.'
+url:              http://playbook.goinvo.com
+baseurl:          /
+
+author:
+  name:           'Involution Studios'
+  url:            https://twitter.com/goinvo
+
+paginate:         5
+
+# Custom vars
+version:          0.3
+
+github:
+  repo:           https://github.com/goinvo/InvoPlaybook
