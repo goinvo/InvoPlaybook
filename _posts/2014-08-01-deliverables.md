@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Deliverables
-category: posts
-draft: false
 ---
 
 ## Basics
