@@ -32,7 +32,7 @@ Create an email listserv for the Invo team working on the project. Format should
 
 Setup Slack channel for the project. Channel name should follow `proj-client-name`. An example is `proj-dataxu`.  
 
-Setup dropbox for internal team [following this structure]({% post_url 2014-04-01-dropbox %}). [Dropbox example](https://www.dropbox.com/sh/4hqpdnf5nkquexu/AADJZTKqxU8hqhkZkCH8MWgva?dl=0).  
+Setup dropbox for internal team [following this structure]({% post_url 2014-04-01-file-management %}). [Dropbox example](https://www.dropbox.com/sh/4hqpdnf5nkquexu/AADJZTKqxU8hqhkZkCH8MWgva?dl=0).  
 
 ### Two Weeks before Kickoff
 
