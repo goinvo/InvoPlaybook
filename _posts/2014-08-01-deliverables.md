@@ -24,6 +24,17 @@ This Adobe InDesign template includes the styles (paragraph + object styles) to 
 
 ## Common Deliverables
 
+** Pre-Kickoff **
+
+### Project Proposal
+Project proposals are sent to a potential client we're in discussions working with. The proposal provides background on the company, the team, and what the design process and schedule could look like for the project, and cost. The proposal starts the conversation to refine the engagement and ultimately create a Statement of Work (SoW).	
+[PDF Example 1](https://www.dropbox.com/s/ko86mr2yyn14jlj/20150306_Kala_UX_Proposal.pdf?dl=0)
+
+### Statement of Work (SoW)
+The Statement of Work outlines our engagement with the client. It describes what the project is about, the weekly schedule, deliverables, team size, and cost. To begin the project, the client will need to agree to and sign the SoW. 	
+[Doc Example 1](https://www.dropbox.com/s/w5zxlzj64o9u44r/Involution_Studios_Boston_DataXu_UI_SOW_1-28-2013.doc?dl=0)
+
+
 ** Kickoff **
 
 ### Schedule
