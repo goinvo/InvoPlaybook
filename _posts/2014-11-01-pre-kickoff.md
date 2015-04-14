@@ -36,9 +36,105 @@ Setup dropbox for internal team [following this structure]({% post_url 2014-04-0
 
 ### Two Weeks before Kickoff
 
-Schedule kickoff date(s) and times with the client. Also send over an agenda of kickoff (Agenda examples to be added).
+Schedule kickoff date(s), times, and location with the client.
 
-Send client and stakeholders the kickoff survey and ask for this to be completed within 5 days. But first [duplicate this kickoff survey](https://docs.google.com/forms/d/1Ii4KitXws0w85CLn_LQvLhOHL9p75dMMT2CCc0_iwwM/edit) and edit it for your project.
+Craft the kickoff agenda.
+
+```html
+DAY 1
+Tuesday, 3p - 5p
+
+3-4p
+Basics
+* Team intro
+* Organizational background
+* 3 most important organizational goals
+* Review SoW, 5m
+
+Service Overview
+* Where Triliant is now, where Triliant wants to go in 6m/1y/5y.
+* Where is the Kala software now, where it needs to go in 6m/1y/5y.
+* Review survey responses.
+
+4-5p
+Product Vision
+* Business objectives for people, for retailers.
+* Rules of Kala Citizenship
+** Demographics
+** Roles and use cases
+** What drives becoming a Kala apostle?
+* Key screens walkthrough
+* If you could communicate a singular message about this project, what would it be?
+* How do you want people to react to your product/service? Core values, design principles.
+* Competitive landscape.
+
+
+DAY 2
+Wed, 9a - 12:30p, additional time if needed till 2p
+
+9-10:30a
+Features + Functions
+* Basic mapping of key features, workflows
+* What's in v.02, v.03
+* What's out, identifying constraints
+* Concept sketching
+
+10:30-11a
+Technology
+* Current service architecture
+* v.02 plans, stack
+
+Aesthetics, Loved Experiences
+* Examples you love
+* Graphic design favorites
+
+11-12p
+Measuring Success
+* Buyer, Retailer, business, project success = ?
+* In 3 + 6 months, what do we have?
+* In 1 + 2 years, where are we?
+* Goals, Challenges
+* Instrumentation (how are we gathering data, evidence-based design)
+
+12-12:30p
+Evolve SoW, short term deliverables, next steps
+* Next week, next 3 weeks
+* Communication, project plan
+* How we design together, critiques, meetings
+* Feedback loop with customers?
+```
+
+Send kickoff agenda to the client.
+
+```html
+<clientName>,  
+
+Here is our agenda for the project kickoff.
+If you have any thoughts or edits, let us know.
+
+Also, we have a survey we'd like you and your team to fill out prior to kickoff. We'll send the details over on <insertDaySent>.
+
+<yourName>
+
+---------
+
+<includeAgenda>
+
+```
+
+Send client and stakeholders the [Kickoff Survey](http://goo.gl/forms/nxb978uXut) and ask for this to be completed within 2 days. Here is an email template to send to the client. At this point, you may not know all the stakeholders, so sending to the client lead and asking to distribute to their team is fine.
+
+``` html
+<clientName>,  
+
+We’d like to hear each person's perspective on the project prior to kickoff and then refine that into a single message during the kickoff.
+
+Can you and your team individually fill out this 7 minute survey by tomorrow?  
+http://goo.gl/forms/nxb978uXut
+
+Thanks,  
+<yourName>
+```
 
 ### One Week before Kickoff
 
