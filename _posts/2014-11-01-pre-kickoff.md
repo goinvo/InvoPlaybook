@@ -122,7 +122,7 @@ Also, we have a survey we'd like you and your team to fill out prior to kickoff.
 
 ```
 
-Send client and stakeholders the [Kickoff Survey](http://goo.gl/forms/nxb978uXut) and ask for this to be completed within 2 days. Here is an email template to send to the client. At this point, you may not know all the stakeholders, so sending to the client lead and asking to distribute to their team is fine.
+Send client and stakeholders the [Kickoff Survey](http://goo.gl/forms/nxb978uXut) and ask for this to be completed within 2 days. Make sure you're sending this enough in advance where we'll have time to review the responses prior to kickoff. Here is an email template to send to the client. At this point, you may not know all the stakeholders, so sending to the client lead and asking to distribute to their team is fine.
 
 ``` html
 <clientName>,  
