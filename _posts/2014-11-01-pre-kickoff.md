@@ -129,7 +129,7 @@ Send client and stakeholders the [Kickoff Survey](http://goo.gl/forms/nxb978uXut
 
 We’d like to hear each person's perspective on the project prior to kickoff and then refine that into a single message during the kickoff.
 
-Can you and your team individually fill out this 7 minute survey by tomorrow?  
+Can you and your team individually fill out this 7 minute survey by <insertDeadline2businessDaysIdeal>?  
 http://goo.gl/forms/nxb978uXut
 
 Thanks,  
