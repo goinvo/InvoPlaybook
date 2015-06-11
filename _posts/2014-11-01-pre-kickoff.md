@@ -107,6 +107,8 @@ Evolve SoW, short term deliverables, next steps
 Send kickoff agenda to the client.
 
 ```html
+Subject: Kickoff Agenda, <dateTimeKickoff>
+
 <clientName>,  
 
 Here is our agenda for the project kickoff.
@@ -125,6 +127,8 @@ Also, we have a survey we'd like you and your team to fill out prior to kickoff.
 Send client and stakeholders the [Kickoff Survey](http://goo.gl/forms/nxb978uXut) and ask for this to be completed within 2 days. Make sure you're sending this enough in advance where we'll have time to review the responses prior to kickoff. Here is an email template to send to the client. At this point, you may not know all the stakeholders, so sending to the client lead and asking to distribute to their team is fine.
 
 ``` html
+Subject: Project Survey
+
 <clientName>,  
 
 We’d like to hear each person's perspective on the project prior to kickoff and then refine that into a single message during the kickoff.
