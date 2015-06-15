@@ -27,7 +27,7 @@ When building a prototype with the goal of the client using it for demos to cust
 If your goal is to test the technical feasibility of a design (or a portion of a design), it is important to make sure you have a good understanding of what the final technology stack might look like. Is there an API? Is it a native application? It is going to be built in the style of a single page application?
 
 ## Determine the Scope
-
+It isn't possible to prototype everything and rarely does it make sense to. You should be prototyping for a purpose.
 
 ## Technical Questions
 * What language will your prototype be written in?
@@ -57,7 +57,7 @@ The scope of prototypes can explode if you focus on details that don't matter. W
 You don't want to spend too long on technical architecture for the prototype, but if you don't spend enough time you will find yourself with a fragile and stapled together system which is hard to maintain. Some common pitfalls with this:
 * Not separating the data from the templates, resulting in a lot of wasted time updating details of the different pages.
 * Not considering reusability of controllers or templates
-* Not identifying how content will get loading
+* Not identifying how content will get loaded
 
 ## Data
 When someone is evaluating a design they use the data as well as the design elements in the screen to understand the design. As such, it is important that your prototype contains real data which tells a story.
@@ -73,3 +73,91 @@ At the most basic level, you can take a look at the
 * How to gather it
 * How to store it (also be careful about keeping private stuff private)
 * Why it is important
+
+
+## Some Techniques
+### InDesign DataMerge
+Adobe InDesign (and Illustrator) have a feature called [DataMerge](https://helpx.adobe.com/indesign/using/data-merge.html). It allows you to turn a design file into a template and batch generate InDesign files with the data provided in a CSV file. These files can be linked to other designs (using the `Place` command) or exported as images.
+
+In javascipt, you can then do something like this:
+
+```javascript
+//Assume we've placed our generated images in images/ directory.
+var i, html;
+var numItems = 150;
+for(i=0; i<numItems; i++){
+	//Better to use a real templating language.
+	html = '<div class="singleItem"><img src="images/item_'+i+'.png"></img></div>';
+	$('#allItems').append(template);
+}
+```
+Then you can add some interaction with some CSS
+
+```css
+.singleItem{
+	background-color:#f2f2f2;
+}
+.singleItem:hover{
+	background-color:#444;
+}
+```
+
+You can also add some javascript interactions. Assume that we also exported `item_expanded_1.png`, `item_expanded_2.png`, etc. When we select a row, we want it to expand.
+
+A Mustache template:
+
+```html
+<script type="text/html" id="rowTemplate">
+{%raw%}{{#items}}{%endraw%}
+	<div class="singleItem" data-expanded="no">
+		<img src="img/item_{%raw%}{{num}}{%endraw%}.png">
+		</img>
+		<img class="expansion" src="img/item_expanded_{%raw%}{{num}}{%endraw%}.png">
+		</img>
+	</div>
+{%raw%}{{/items}}{%endraw%}
+</script>
+```
+
+We can populate it for our 150 images like so:
+
+```javascript
+var numItems = 150;
+var i=0;
+var allObjects = [];
+for(i=0; i<numItems; i++){
+	//Make this an object so we can add more properties in the future if we want.
+	allObjects.append({num:i});
+}
+var template = $('#rowTemplate').html();
+var generatedHTML = Mustache.render(template, allObjects);
+$('#allItems').append(generatedHTML);
+
+$('.singleItem').click(function(e){
+	var isExpanded = $(this).attr('data-expanded') === 'yes';
+	if(isExpanded){
+		//We are expanded already, so let's close it.
+		$(this).attr('data-expanded','no');
+	}
+	else{
+		//First, close everything else.
+		$('.singleItem').attr('data-expanded','no');
+
+		//We aren't expanded, so let's open it.
+		$(this).attr('data-expanded','yes');
+	}
+});
+
+```
+
+Add a bit of CSS
+
+```css
+.singleItem[data-expanded="no"] .expansion{
+//Don't show the expansion image if we are not expanded.
+	display:none;
+}
+```
+
+
+Now, we've built an expandable table with only a few lines of code. You could even add a CSS transition to make it animate on expansion.
