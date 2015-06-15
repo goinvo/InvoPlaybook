@@ -24,7 +24,7 @@ Oftentimes, a client needs help **communicating** the new design throughout thei
 When building a prototype with the goal of the client using it for demos to customers, **it is critical to work with the client to define the story or stories they will tell while using the prototype**. When scoping the prototype, the story will be used to decide what is critical to nail, what can be faked, and what doesn't need to be included.
 
 ### Goal: Identify Technical Feasibility
-If your goal is to test the technical feasibility of a design (or a portion of a design), it is important to make sure you have a good understanding of 
+If your goal is to test the technical feasibility of a design (or a portion of a design), it is important to make sure you have a good understanding of what the final technology stack might look like. Is there an API? Is it a native application? It is going to be built in the style of a single page application?
 
 ## Determine the Scope
 
@@ -54,14 +54,10 @@ It isn't that the feedback isn't valid... it just indicates where a little more 
 The scope of prototypes can explode if you focus on details that don't matter. When you are building a prototype, you need to constantly ask whether what you are working on adds value *towards the goal of the prototype*. If it doesn't, it might not need to be implemented or it might be able to be faked.
 
 ### Not Enough Technical Architecture
-You don't want to spend too long on technical architecture for the prototype, but if you don't spend enough time you will find yourself with a fragile and stapled together system which is hard to maintain. You should think about the following things
-* How am I loading
-
-
-## Planning
-
-* Determine frequency of drops (for instance, in DX we did weekly drops because we wanted )
-
+You don't want to spend too long on technical architecture for the prototype, but if you don't spend enough time you will find yourself with a fragile and stapled together system which is hard to maintain. Some common pitfalls with this:
+* Not separating the data from the templates, resulting in a lot of wasted time updating details of the different pages.
+* Not considering reusability of controllers or templates
+* Not identifying how content will get loading
 
 ## Data
 When someone is evaluating a design they use the data as well as the design elements in the screen to understand the design. As such, it is important that your prototype contains real data which tells a story.
