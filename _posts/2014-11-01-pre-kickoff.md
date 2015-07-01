@@ -112,7 +112,7 @@ Introductions
 
 9:10
 Company / product background
-* Tell us about IMS Health, its history, its structure.
+* Tell us about your company, its history, its structure.
 * Tell us about your system, the audience you want to reach and the goals you want to help them achieve.
 
 9:30
