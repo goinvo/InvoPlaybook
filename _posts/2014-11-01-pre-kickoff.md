@@ -104,6 +104,48 @@ Evolve SoW, short term deliverables, next steps
 * Feedback loop with customers?
 ```
 
+For shorter kickoffs, here's an abbreviated version:
+
+```html
+9
+Introductions
+
+9:10
+Company / product background
+* Tell us about IMS Health, its history, its structure.
+* Tell us about your system, the audience you want to reach and the goals you want to help them achieve.
+
+9:30
+Product suite
+* The ins and outs of the poroduct
+* System relationships
+* Where to focus efforts in the project
+
+10:10
+Short and long term goals
+* Where you want to be at the end of this project
+* Where you want to be five, ten years down the road.
+
+10:40
+Project overview, vision, design priorities 
+* Solidify key priorities for the project. 
+* Sketching may be involved.
+* Share examples, inspirations, and aspirations.
+
+11:40
+High level product architecture exercise
+* Identify user base, roles and common workflows
+* Design priorities for this project
+* Key screens/areas in the application
+* Define technology used, constraints, requirements.
+
+12:40
+Schedule of work
+* Project roles
+* Project schedule
+* Logistics, meeting times and places
+```
+
 Send kickoff agenda to the client.
 
 ```html
