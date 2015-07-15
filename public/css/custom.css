@@ -9,3 +9,7 @@
 .content h3 {
 	font-size: 23px;
 }
+code.language-text{
+	word-wrap: normal;
+  	word-break: normal;
+}
