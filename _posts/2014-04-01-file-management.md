@@ -160,3 +160,33 @@ Bad Example:
 `engagement.indd`   
 `Careplan_Flow_v01.pdf`   
 `Careplan_Flow_DRAFT.pdf`
+
+## SOW and Invoice Directory Structure Example
+``` html
+/Invo_Projects   
+  /all_SOWs  
+    /client1
+      msa.pdf
+      sow-1.pdf
+      invoice-1.pdf
+      invoice-2.pdf
+      invoice-3.pdf   
+      /expenses
+    /client2   
+      /project1
+        msa.pdf
+        sow-1.pdf
+        invoice-1.pdf
+        invoice-2.pdf
+        invoice-3.pdf   
+        /expenses
+      /project2
+        msa.pdf
+        sow-1.pdf
+        invoice-1.pdf
+        invoice-2.pdf
+        invoice-3.pdf   
+        /expenses
+```
+
+The Master Service Agreement (MSA), Statement of Work (SoW), and invoices are all on the root folder of the client. If there are multiple projects for a client then create separate project folders and group the SoW and invoices in their respective project folder while the MSA still resides in the root of the client folder. Optional: If we're billing for any expenses (ex. Travel, Equipment, Software) then create an `expenses` folder and place in any receipts. For multiple visits to a clients office it would be helpful to create a sub-folder (ex. `trip-2Nov-5Nov`) within `/expenses` for each trips expenses.
