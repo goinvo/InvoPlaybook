@@ -193,7 +193,7 @@ Get familiar with handling invoicing for the project.
 	<li>Request billing contact information from client</li>
 	<li>Identify dates for sending invoices and receiving payment. Let sales team know of those dates to update the financial forecast.</li>
 	<li>Create invoice (workflow to be documented) and send to client billing contact on the pre-determined date.</li>
-	<li>Add invoice to the dropbox folder `Invo_Projects` > `all_SOWs` > `clientName` for our records. See the [SOW and Invoice Directory Structure section in File Management]({% post_url 2014-04-01-file-management %}) for more info.</li>
+	<li>Add invoice to the dropbox folder `Invo_Projects` > `all_invoices` > `clientName` for our records. See the [Invoice Directory Structure section in File Management]({% post_url 2014-04-01-file-management %}) for more info.</li>
 	<li>Follow up when a payment becomes late.</li>
 </ul>
 
