@@ -12,11 +12,11 @@ title: Onboarding
 ## First Day
 **Old Staff list**
 
-* *Juhan* - Set up W9/IRS Paperwork
-* *Juhan* - Send invites for Github, Dropbox, Media Temple, and Basecamp
-* *Eric* - Provide license key for Creative Suite and Sketch
-* *Juhan* - Take new staff's Invo photo
-* *Juhan* - Order slippers
++ *Juhan* - Set up W9/IRS Paperwork
++ *Juhan* - Send invites for Github, Dropbox, Media Temple, and Basecamp
++ *Eric* - Provide license key for Creative Suite and Sketch
++ *Juhan* - Take new staff's Invo photo
++ *Juhan* - Order slippers
 
 **New Staff list**
 
