@@ -5,18 +5,17 @@ title: Onboarding
 
 ## Pre-Arrival
 **Old Staff List**
-* Juhan > Set up email @goinvo.com
-* Jenn > Staffplan 
+* *Juhan* - Set up email @goinvo.com
+* *Jenn* - Add to Staffplan 
 
-**New Staff List**
 
 ## Newbie First Day
 **Old Staff list**
-* Juhan > Set up W9/IRS Paperwork
-* Juhan > Send invites for Github, Dropbox, Media Temple, and Basecamp
-* Eric > Provide license key for Creative Suite and Sketch
-* Juhan > Take new staff's Invo photo
-* Juhan > Order slippers
+* *Juhan* - Set up W9/IRS Paperwork
+* *Juhan* - Send invites for Github, Dropbox, Media Temple, and Basecamp
+* *Eric* - Provide license key for Creative Suite and Sketch
+* *Juhan* - Take new staff's Invo photo
+* *Juhan* - Order slippers
 
 **New Staff list**
 * Fill out W9/IRS Paperwork
