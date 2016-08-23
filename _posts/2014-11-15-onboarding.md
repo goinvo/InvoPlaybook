@@ -5,6 +5,7 @@ title: Onboarding
 
 ## Pre-Arrival
 **Old Staff List**
+
 + *Juhan* - Set up email @goinvo.com
 + *Jenn* - Add to Staffplan 
 
