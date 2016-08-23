@@ -3,40 +3,30 @@ layout: post
 title: Onboarding
 ---
 
-## Welcome
+## Pre-Arrival
+**Old Staff List**
+* Juhan > Set up email @goinvo.com
+* Jenn > Staffplan 
 
-Here's a handy list of everything you'll need to get started at Invo. You may want to print this out and check these off as you go.
+**New Staff List**
 
+## Newbie First Day
+**Old Staff list**
+* Juhan > Set up W9/IRS Paperwork
+* Juhan > Send invites for Github, Dropbox, Media Temple, and Basecamp
+* Eric > Provide license key for Creative Suite and Sketch
+* Juhan > Take new staff's Invo photo
+* Juhan > Order slippers
 
-### The Checklist
-**Set Up:**  
-* Email @goinvo.com
-* W9/IRS Paperwork
-* Staffplan - ask Jenn
+**New Staff list**
+* Fill out W9/IRS Paperwork
+* Explore Invo Github, Dropbox, Media Temple, and Basecamp
+* Download and install Creative Suite and Sketch
+* Send Juhan studio slippers of choice from Amazon
 
-**Connect:** 
-* Slack
-* Twitter handle - send to Juhan 
-* Linkedin profile - send to Juhan
-
-**Tools:**
-* Github
-* Dropbox
-* Media Temple
-* Basecamp
-* Creative Suite
-* Sketch
-* Prototyping Tool of Preference - Adobe XD, Proto.io, Framer, Invision
-
-**Studio:**
-* Studio Slippers
-* Invo Photo
-
-
-### Go Deeper
-Here are a few resources that describe the way we operate more fully:
-* The Playbook - Ethics and processes that drive our work
-* Getting Real - by 37signals, described as "A smaller, faster, better way to build software"	
-
-### Questions?
-Admin questions ask Jenn, questions about the studio ask your sherpa, anything else and all of the above feel free to ask any of us.
+## Following Days
+**New Staff List**
+* Read the rest of *The Playbook* - Ethics and processes that drive our work
+* Read *Getting Real* - by 37signals, described as "A smaller, faster, better way to build software"	
+* Explore prototyping tools - Adobe XD, Proto.io, Framer, Invision
+* Ask questions! - Admin questions ask Jenn, questions about the studio ask your sherpa, anything else and all of the above feel free to ask any of us.
