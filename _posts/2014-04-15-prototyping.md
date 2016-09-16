@@ -12,18 +12,19 @@ When starting to work on a prototype, it is important that the client and the In
 
 Based on the purpose, you need to take different approaches.
 
-### Goal: Validate and Improve the Design
+### Goal A: Validate and Improve the Design
 If your goal is to validate and improve the design, it is important to focus on rapid iteration. There is a lot of value in prototyping as part of the design process. It forces the design team to think about micro-interactions (i.e. hover states, transitions, labels) that they might have overlooked while designing on paper. It also lets you experience a design in its native format. Some designs that looks great on paper fail horribly when they start living and breathing.
 
 If the goal is really to let the design team (including the client's core team) validate and iterate on the design, then the prototype might not need to be as polish or as complete. For instance, if evaluating a workflow, you might not need to implement each of the steps in order to evaluate the success or failure of the design. In some cases, though, these steps might be critical to evaluating the success or failure of a design.
 
 Some of the best prototypes in this scenario have razor-sharp focus on specific areas of functionality. You can save a lot of time by building a bunch of small prototypes rather than one large prototype. 
-### Goal: Sell the Design to Customers or the Organization
+
+### Goal B: Sell the Design to Customers or the Organization
 Oftentimes, a client needs help **communicating** the new design throughout their own organization or to their customers. Prototypes can be a great way to achieve this. In some cases, our clients' sales teams have used our prototypes to sell the future of the product while the production system is still in development.
 
 When building a prototype with the goal of the client using it for demos to customers, **it is critical to work with the client to define the story or stories they will tell while using the prototype**. When scoping the prototype, the story will be used to decide what is critical to nail, what can be faked, and what doesn't need to be included.
 
-### Goal: Identify Technical Feasibility
+### Goal C: Identify Technical Feasibility
 If your goal is to test the technical feasibility of a design (or a portion of a design), it is important to make sure you have a good understanding of what the final technology stack might look like. Is there an API? Is it a native application? It is going to be built in the style of a single page application?
 
 ## Determine the Scope
