@@ -44,6 +44,7 @@ It isn't possible to prototype everything and rarely does it make sense to. You 
 * Choose a framework that is as close as possible to what will be used in the final production system. If you are prototyping a native iOS application, consider building it as a native iOS application or at least use a framework which compiles to native code. **This will lead to a more realistic prototype and help to identify technical constraints**. This sometimes will be in conflict with the decision to use the framework with the least overhead. 
 
 ## Common Pitfalls
+
 ### Incorrectly Attributing Feedback
 Sometimes clients (or Invoites) see a prototype that is a bit laggy or doesn't quite feel right and take it as a failure in the design. When incorporating feedback from a prototype, it is important to understand the root cause of the feedback. For instance, if someone is having trouble using inline editing, it could be because inline editing doesn't make sense in this context or it could be because the specific code implementation of the inline editing isn't right. It is easy to incorrectly evaluate feedback on a prototype and end up making bad design decisions.
 
@@ -66,9 +67,9 @@ When someone is evaluating a design they use the data as well as the design elem
 ### Properties of Real Data
 In your prototypes it is important to use real (or at least realistic) data. The best option is to have get real data from the client. In cases where this isn't available, you can craft a dataset. 
 
-#### Real Data has an average and distribution
-At the most basic level, you can take a look at the 
+At the most basic level, consider these:
 
+ + Real Data has an average and distribution
 * Real Data is layered
 * Real Data has a story
 * How to gather it
@@ -77,7 +78,9 @@ At the most basic level, you can take a look at the
 
 
 ## Some Techniques
+
 ### InDesign DataMerge
+
 Adobe InDesign (and Illustrator) have a feature called [DataMerge](https://helpx.adobe.com/indesign/using/data-merge.html). It allows you to turn a design file into a template and batch generate InDesign files with the data provided in a CSV file. These files can be linked to other designs (using the `Place` command) or exported as images.
 
 In javascipt, you can then do something like this:
