@@ -44,8 +44,13 @@ title: Onboarding
 
  + Discuss how it's going
 
-## By Month 3
+## Milestones
 **New Staff**
 
+
  + First publication on the website
+ + Running your own project: kickoff meetings, client meetings, leading others
+ + Mentoring others: P&Ds
+ + Finding leads: bringing in clients
+ + Finding talent: bringing in new hires
 
