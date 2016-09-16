@@ -5,9 +5,7 @@ title: Pre-Kickoff
 
 Begins with a signed Statement of Work (SoW) from the client.
 
-## Team 
-
-### Immediately
+## Research 
 
 If you haven't been a part of the sales process for the project then review the SoW and discuss the project with the Sales team to understand the background of the project and client. 
 
@@ -22,7 +20,7 @@ Spend 2 hours doing the following research to understand the industry, business,
 
 
 
-## Lead
+## Setup
 
 ### Immediately
 
