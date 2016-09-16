@@ -3,8 +3,6 @@ layout: post
 title: Tangible Expectations
 ---
 
-## Team
-
 1. Provide remarkable service to your customer and your team.
 2. Proactively manage your Staffplan, work schedule and yearly goals.
 3. Find or create at least one job opportunity a year.
