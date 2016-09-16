@@ -49,6 +49,6 @@ Take photos of the team and client engaged a few times throughout the project. T
 ### Project Assessment
 For each quarter of the project completed, at the end of the meeting do the following with the client:
 <ul>
-	<li>Provid a high-level of the project status; how we’re doing against the schedule, what we need help with, and if necessary, make any adjustments so we can realistically deliver on time.</li>
+	<li>Provide a high-level of the project status; how we’re doing against the schedule, what we need help with, and if necessary, make any adjustments so we can realistically deliver on time.</li>
 	<li>Request stakeholders to critique how Invo is doing, what can be done better.</li>
 </ul>  

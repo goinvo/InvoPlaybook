@@ -18,8 +18,6 @@ Spend 2 hours doing the following research to understand the industry, business,
 	<li>Find any competitors and understand what they do differently</li>
 </ul>
 
-
-
 ## Setup
 
 ### Immediately
