@@ -47,10 +47,15 @@ title: Onboarding
 ## Milestones
 **New Staff**
 
-
  + First publication on the website
  + Running your own project: kickoff meetings, client meetings, leading others
  + Mentoring others: P&Ds
  + Finding leads: bringing in clients
  + Finding talent: bringing in new hires
+
+## Yearly
+
+ + Write at least one 500 word white paper or produce a technical concept poster 
+ + Update your resume, skills, and biography every year
+ + Expand your horizons and learn something new by going to a seminar, conference, or semester-long course
 
