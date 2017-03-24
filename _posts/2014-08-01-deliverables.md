@@ -6,7 +6,7 @@ title: Deliverables
 ## Basics
 
 ### Naming Deliverable 	
-At the bottom of every document, include the client name, deliverable name, version number, Invo team names (alpha order of last name), date (format `19.Feb.15` which InDesign automates for you using the documents last modified date), and Invo logo. 
+At the bottom of every document, include the client name, project name, deliverable name, version number, Invo team names (alpha order of last name), date (format `19.Feb.15` which InDesign automates for you using the documents last modified date), and Invo logo. 
 ![Naming a document](/images/deliverable-document-naming.png)
 
 ### Numbering and Naming Screens 	
