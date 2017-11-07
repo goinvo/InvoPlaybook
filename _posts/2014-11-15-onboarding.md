@@ -37,7 +37,7 @@ title: Onboarding
  + Read the rest of *The Playbook* - Ethics and processes that drive our work
  + Read [*Getting Real*](https://www.dropbox.com/scl/fi/e1w90yjiuz1xi3s?oref=e&sm=1) - by 37signals, described as "A smaller, faster, better way to build software"
  + Explore prototyping tools - Adobe XD, Proto.io, Framer, Invision
- + Ask questions! - Admin questions ask Jenn, questions about the studio ask your sherpa, anything else and all of the above feel free to ask any of us.
+ + Ask questions! - Admin questions ask Jen, questions about the studio ask your sherpa, anything else and all of the above feel free to ask any of us.
 
 ## By Month 1
 **New Staff, Group Leader, and Creative Director**
