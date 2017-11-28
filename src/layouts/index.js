@@ -3,40 +3,21 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 
-import Sidebar from '../components/sidebar/sidebar'
+import Header from '../components/header/header'
 import Main from '../components/main/main'
+import Sidebar from '../components/sidebar/sidebar'
 
-import './index.css'
+import '../scss/index.scss'
 
 class Layout extends Component {
   static propTypes = {
     children: PropTypes.func,
   }
 
-  // constructor() {
-  //   super();
-  //
-  //   this.state = {
-  //     activeSection: sidebarLinks[0],
-  //     activeSubSection: sidebarLinks[0]['subsections'][0]
-  //   };
-  // }
-  //
-  // setActiveSection = (section, setSubsection = false) => {
-  //   if (setSubsection) {
-  //     this.setState({
-  //       activeSubSection: section
-  //     })
-  //   } else {
-  //     this.setState({
-  //       activeSection: section
-  //     })
-  //   }
-  // }
-
   render() {
     return (
-      <div>
+      <div className="app">
+        { /* Define html head with Helmet */ }
         <Helmet
           title="GoInvo Playbook"
           meta={[
@@ -44,12 +25,9 @@ class Layout extends Component {
             { name: 'keywords', content: 'sample, something' },
           ]}
         />
-        {/* <Sidebar activeSection={this.state.activeSection}
-                 activeSubSection={this.state.activeSubSection}
-                 setActiveSection={this.setActiveSection}
-        /> */}
+        <Header />
         <Sidebar />
-        <Main>{this.props.children()}</Main>
+        <Main>{ this.props.children() }</Main>
       </div>
     )
   }

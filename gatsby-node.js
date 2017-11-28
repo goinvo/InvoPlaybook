@@ -80,11 +80,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
       // Write the resulting sidebarData to the filesystem
       const sidebarJson = JSON.stringify(sidebarData)
-      fs.writeFile('data/sidebar.json', sidebarJson, 'utf8', function readFileCallback(err, data) {
+      fs.writeFile('data/nav-items.json', sidebarJson, 'utf8', function readFileCallback(err, data) {
         if (err) {
           console.log(err)
         } else {
-          console.log('Successfully wrote sidebar data to data/sidebar.json')
+          console.log('Successfully wrote navigation data to data/nav-items.json')
         }
       })
 

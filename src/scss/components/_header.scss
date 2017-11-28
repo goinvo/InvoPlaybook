@@ -1,0 +1,38 @@
+.header {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: $header-height;
+  background-color: $black;
+  color: $white;
+  overflow: hidden;
+  z-index: 1000;
+
+  &__bar {
+    display: flex;
+    align-items: center;
+    height: $header-height;
+  }
+
+  &__logo,
+  &__toggle {
+    flex-shrink: 0;
+    padding: 0 ($padding * .5);
+  }
+
+  &__logo {
+    font-size: 40px; // TODO
+  }
+
+  &__title {
+    flex: 1;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  @media only screen and (min-width: 768px) {
+    display: none;
+  }
+}
