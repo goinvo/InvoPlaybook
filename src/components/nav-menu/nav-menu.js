@@ -24,6 +24,9 @@ class NavMenu extends Component {
   }
 
   setActiveSection = (section) => (e) => {
+    // Reset to top of page (especially if clicking link for page that's already active)
+    window.scrollTo(0, 0 );
+
     this.setState({
       activeSection: section
     })

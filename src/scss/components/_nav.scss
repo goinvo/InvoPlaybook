@@ -9,7 +9,7 @@ $nav-indicator-size: 7px;
       margin-bottom: 0;
 
       &.active {
-        background-color: transparentize($black, .75);
+        background-color: transparentize($black, .65);
       }
     }
 
@@ -48,7 +48,9 @@ $nav-indicator-size: 7px;
     text-decoration: none;
     text-transform: uppercase;
 
-    &:hover {
+    &:hover,
+    &:focus {
+      color: $white;
       text-decoration: underline;
     }
 

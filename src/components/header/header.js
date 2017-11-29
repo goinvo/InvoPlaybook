@@ -20,14 +20,14 @@ class Header extends Component {
     return (
       <header className={ `header ${ this.state.isExpanded ? 'expanded' : '' }` }>
         <div className="header__bar">
-          <div className="header__logo">P</div>
+          <h1 className="header__logo">P</h1>
           { /* TODO: Need dynamic page title here */ }
           <div className="header__title">Project MGMT</div>
           <div className="header__toggle">
             <button className="header__toggle-button"
                     onClick={ this.toggleExpanded }>
               { /* TODO: Icon dropdown / X */ }
-              Der
+              Menu
             </button>
           </div>
         </div>

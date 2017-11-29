@@ -5,7 +5,7 @@ import NavMenu from '../nav-menu/nav-menu'
 export default () => {
   return (
     <aside className="sidebar">
-      <div className="sidebar__title">Playbook</div>
+      <h1 className="sidebar__title">Playbook</h1>
       <NavMenu showSubsections={ true } />
     </aside>
   )

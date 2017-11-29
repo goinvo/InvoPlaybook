@@ -6,11 +6,14 @@
   left: 0;
   width: $sidebar-width;
   color: $white;
-  background-color: pink; // TODO
+  text-shadow: 0 0 3px transparentize($black, .5);
+  background: url('../assets/images/bg-sidebar.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
   &__title {
     padding: $padding;
-    font-size: 40px; // TODO
     margin-bottom: 5rem;
   }
 

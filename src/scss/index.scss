@@ -7,6 +7,20 @@
 @import "components/_header";
 @import "components/_sidebar";
 
+html,
+body {
+  color: $black--text;
+}
+
+a {
+  color: $link;
+
+  &:hover,
+  &:focus {
+    color: darken($link, 10%);
+  }
+}
+
 .app {
   margin-top: $header-height;
 
