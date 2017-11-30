@@ -1,0 +1,67 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: $footer-height;
+  background-color: $black;
+  color: $white;
+
+  &__nav {
+    @extend %list--unstyled;
+
+    display: flex;
+    height: 100%;
+  }
+
+  &__nav-item {
+    width: 50%;
+    height: 100%;
+    margin-bottom: 0;
+
+    a {
+      display: flex;
+      align-items: center;
+      height: 100%;
+      padding: ($padding * .25) ($padding);
+      color: $white;
+
+      &:hover,
+      &:focus {
+        color: $white;
+      }
+    }
+
+    img {
+      display: block;
+      width: 2rem;
+      height: 2rem;
+      margin-bottom: 0;
+    }
+
+    &:first-of-type {
+      a {
+        justify-content: flex-start;
+      }
+    }
+
+    &:last-of-type {
+      border-left: 1px solid $white;
+
+      a {
+        justify-content: flex-end;
+      }
+    }
+  }
+
+  &__nav-item-text {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  @media only screen and (min-width: $desktop) {
+    display: none;
+  }
+}

@@ -6,6 +6,7 @@ import Helmet from 'react-helmet'
 import Header from '../components/header/header'
 import Main from '../components/main/main'
 import Sidebar from '../components/sidebar/sidebar'
+import Footer from '../components/footer/footer'
 
 import '../scss/index.scss'
 
@@ -34,7 +35,8 @@ class Layout extends Component {
     }
 
     this.state = {
-      activeSection: activeSection
+      activeSection: activeSection,
+      activeSubsection: activeSection.subsections.length ? activeSection.subsections[0] : undefined
     }
   }
 
@@ -42,7 +44,21 @@ class Layout extends Component {
     // Reset to top of page (especially if clicking link for page that's already active)
     window.scrollTo(0, 0);
 
-    this.setState({ activeSection: section });
+    this.setState({
+      activeSection: section,
+      activeSubsection: section.subsections[0]
+    });
+  }
+
+  onScrollSpyUpdate = (heading) => {
+    if (heading) {
+      const id = heading.id;
+      const newActiveSubsection = this.state.activeSection.subsections.find(subsection => subsection.slug === id);
+
+      if (newActiveSubsection) {
+        this.setState({ activeSubsection: newActiveSubsection });
+      }
+    }
   }
 
   render() {
@@ -62,13 +78,18 @@ class Layout extends Component {
         />
         <Header navItems={ navItems }
                 activeSection={ this.state.activeSection }
-                onSectionClick={ this.onSectionClick }
-        />
+                onSectionClick={ this.onSectionClick } />
         <Sidebar navItems={ navItems }
                  activeSection={ this.state.activeSection }
                  onSectionClick={ this.onSectionClick }
-        />
+                 onScrollSpyUpdate={ this.onScrollSpyUpdate } />
         <Main>{ this.props.children() }</Main>
+        {
+          this.state.activeSubsection ?
+            <Footer activeSection={ this.state.activeSection }
+                    activeSubsection={ this.state.activeSubsection } />
+          : null
+        }
       </div>
     )
   }

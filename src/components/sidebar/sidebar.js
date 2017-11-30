@@ -10,6 +10,7 @@ export default (props) => {
         <NavMenu items={ props.navItems }
                  activeSection={ props.activeSection }
                  onSectionClick={ props.onSectionClick }
+                 onScrollSpyUpdate={ props.onScrollSpyUpdate }
                  showSubsections={ true }
         />
       </div>

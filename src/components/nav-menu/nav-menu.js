@@ -4,12 +4,12 @@ import Link from 'gatsby-link'
 import Collapse from 'react-collapse'
 import Scrollspy from 'react-scrollspy'
 
-
 class NavMenu extends Component {
   static propTypes = {
     items: PropTypes.array.isRequired,
     activeSection: PropTypes.object.isRequired,
     onSectionClick: PropTypes.func.isRequired,
+    onScrollSpyUpdate: PropTypes.func,
     showSubsections: PropTypes.bool
   }
 
@@ -19,6 +19,12 @@ class NavMenu extends Component {
 
   getSubsectionSlugs = (section) => {
     return section.subsections.map(subsection => subsection.slug);
+  }
+
+  onScrollSpyUpdate = (heading) => {
+    if (this.props.onScrollSpyUpdate) {
+      this.props.onScrollSpyUpdate(heading);
+    }
   }
 
   render() {
@@ -42,7 +48,8 @@ class NavMenu extends Component {
                       <Collapse isOpened={this.isActiveSection(section)}>
                         <Scrollspy items={this.getSubsectionSlugs(section)}
                                    className="nav__menu nav__menu--subsection"
-                                   currentClassName="is-current">
+                                   currentClassName="is-current"
+                                   onUpdate={ this.onScrollSpyUpdate }>
                           {
                             section.subsections.map((subsection, index) => {
                               return (
