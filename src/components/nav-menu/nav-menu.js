@@ -4,32 +4,17 @@ import Link from 'gatsby-link'
 import Collapse from 'react-collapse'
 import Scrollspy from 'react-scrollspy'
 
-import navItems from '../../../data/nav-items.json'
 
 class NavMenu extends Component {
   static propTypes = {
+    items: PropTypes.array.isRequired,
+    activeSection: PropTypes.object.isRequired,
+    onSectionClick: PropTypes.func.isRequired,
     showSubsections: PropTypes.bool
   }
 
-  constructor() {
-    super();
-
-    this.state = {
-      activeSection: navItems[0]
-    };
-  }
-
   isActiveSection = (section) => {
-    return section === this.state.activeSection;
-  }
-
-  setActiveSection = (section) => (e) => {
-    // Reset to top of page (especially if clicking link for page that's already active)
-    window.scrollTo(0, 0 );
-
-    this.setState({
-      activeSection: section
-    })
+    return section.slug === this.props.activeSection.slug;
   }
 
   getSubsectionSlugs = (section) => {
@@ -41,14 +26,14 @@ class NavMenu extends Component {
       <nav className="nav">
         <ul className="nav__menu">
           {
-            navItems.map((section, index) => {
+            this.props.items.map((section, index) => {
               return (
                 <li key={section.slug}
                     className={ this.isActiveSection(section) ? 'active' : '' }>
                   <div>
                     <Link to={`${section.slug}`}
                           className="nav__link"
-                          onClick={this.setActiveSection(section)}>
+                          onClick={this.props.onSectionClick(section)}>
                       {section.title}
                     </Link>
                   </div>

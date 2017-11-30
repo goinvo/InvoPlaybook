@@ -11,7 +11,8 @@ const typography = new Typography({
   overrideStyles: ({ adjustFontSizeTo, rhythm }, options, styles) => ({
     h1: {
       fontFamily: serifFamily.join(','),
-      fontSize: '2.625rem'
+      fontSize: '2.625rem',
+      fontWeight: '400'
     }
   })
 })

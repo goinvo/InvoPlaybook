@@ -40,7 +40,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       }
     `).then(result => {
       // Initialize empty sidebar data array
-      const sidebarData = []
+      const navItemData = []
 
       // Reset slugger just incase
       slugs.reset()
@@ -61,7 +61,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
         // Add new top-level sidebar section to sidebar data
         // including any subsections found
-        sidebarData.push({
+        navItemData.push({
           title: node.frontmatter.title,
           slug: node.fields.slug,
           subsections: subsections
@@ -79,8 +79,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       })
 
       // Write the resulting sidebarData to the filesystem
-      const sidebarJson = JSON.stringify(sidebarData)
-      fs.writeFile('data/nav-items.json', sidebarJson, 'utf8', function readFileCallback(err, data) {
+      const navItemJson = JSON.stringify(navItemData)
+      fs.writeFile('data/nav-items.json', navItemJson, 'utf8', function readFileCallback(err, data) {
         if (err) {
           console.log(err)
         } else {

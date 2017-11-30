@@ -1,5 +1,6 @@
 .sidebar {
   display: none;
+  flex-direction: column;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -17,7 +18,12 @@
     margin-bottom: 5rem;
   }
 
-  @media only screen and (min-width: 768px) {
-    display: block;
+  &__nav {
+    flex: 1;
+    overflow: auto;
+  }
+
+  @media only screen and (min-width: $desktop) {
+    display: flex;
   }
 }

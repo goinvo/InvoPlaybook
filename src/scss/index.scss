@@ -10,21 +10,36 @@
 html,
 body {
   color: $black--text;
+
+  &.freeze-scrolling {
+    overflow: hidden;
+  }
 }
 
 a {
   color: $link;
+  text-decoration: none;
 
   &:hover,
   &:focus {
     color: darken($link, 10%);
+    text-decoration: underline;
   }
 }
 
 .app {
   margin-top: $header-height;
 
-  @media only screen and (min-width: 768px) {
+  @media only screen and (min-width: $desktop) {
     margin-top: 0;
+  }
+}
+
+.page {
+  max-width: 750px;
+  margin: 0 auto;
+
+  @media only screen and (min-width: $desktop) {
+    margin: 0;
   }
 }
