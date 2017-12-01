@@ -6,8 +6,6 @@ order: 1
 This is the GoInvo Playbook.It’s the gold source reference for learning how to run a project, operate the studio, and why we design.
 
 
-<<<<<<< HEAD
-
 Read it.
 
 Update it.
@@ -135,6 +133,3 @@ Find or create at least one job opportunity a year. Help hire others who are bet
 New paths can be daunting, but that’s where discovery and excitement are born.
 
 Looking for more? Check out this checklist for Invo-lightenment.
-=======
-Fill in with Foundation stuff.
->>>>>>> Eh did a lot of things
