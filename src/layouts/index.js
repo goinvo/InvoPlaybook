@@ -64,8 +64,7 @@ class Layout extends Component {
   render() {
     return (
       <div className="app">
-        { /* Define html head with Helmet */ }
-        { /* TODO: Need adobe font */ }
+        { /* Define html head with Helmet */ } 
         <Helmet
           title="GoInvo Playbook"
           meta={[
@@ -73,7 +72,8 @@ class Layout extends Component {
             { name: 'keywords', content: 'sample, something' },
           ]}
           link={[
-            { href: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600", rel: "stylesheet" }
+            { href: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600", rel: "stylesheet" },
+            { href: "https://use.typekit.net/brw1pwx.css", rel: "stylesheet" }
           ]}
         />
         <Header navItems={ navItems }

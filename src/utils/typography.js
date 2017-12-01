@@ -1,6 +1,6 @@
 import Typography from "typography"
 
-const serifFamily = ['Adobe Jenson Pro', 'Georgia', 'serif'];
+const serifFamily = ['adobe-jenson-pro', 'Georgia', 'serif'];
 const sansSerifFamily = ['Source Sans Pro', 'Helvetica', 'Arial', 'sans-serif'];
 
 const typography = new Typography({
@@ -12,6 +12,13 @@ const typography = new Typography({
     h1: {
       fontFamily: serifFamily.join(','),
       fontSize: '2.625rem',
+      fontWeight: '400'
+    },
+    h2: {
+      fontSize: '1.75rem',
+      fontWeight: '400'
+    },
+    h3: {
       fontWeight: '400'
     }
   })

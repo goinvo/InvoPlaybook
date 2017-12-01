@@ -17,17 +17,6 @@ body {
   }
 }
 
-a {
-  color: $link;
-  text-decoration: none;
-
-  &:hover,
-  &:focus {
-    color: darken($link, 10%);
-    text-decoration: underline;
-  }
-}
-
 .app {
   margin-top: $header-height;
   margin-bottom: $footer-height;
@@ -35,14 +24,5 @@ a {
   @media only screen and (min-width: $desktop) {
     margin-top: 0;
     margin-bottom: 0;
-  }
-}
-
-.page {
-  max-width: 750px;
-  margin: 0 auto;
-
-  @media only screen and (min-width: $desktop) {
-    margin: 0;
   }
 }
