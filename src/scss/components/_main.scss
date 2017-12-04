@@ -23,6 +23,17 @@
     }
   }
 
+  blockquote {
+    padding: $padding ($padding * 2);
+    background-color: $gray--light;
+    border-left: 4px solid $gray;
+    border-radius: $border-radius;
+  }
+
+  code {
+    // TODO: Styles here
+  }
+
   @media only screen and (min-width: $desktop) {
     margin-left: $sidebar-width;
     padding: ($padding * 2) ($padding * 4);

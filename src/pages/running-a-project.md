@@ -32,41 +32,31 @@ Spend 2 hours doing the following research to understand the industry, business,
 3. Setup **Slack channel** for the project. Channel name should follow proj-clientname. An example is proj-dataxu.
 4. Setup **Dropbox** for internal team in Invo Projects using the following structure. [Dropbox example](https://www.dropbox.com/sh/4hqpdnf5nkquexu/AADJZTKqxU8hqhkZkCH8MWgva?dl=0).
 
-/Invo_Projects  
->/ClientName    
->>/client      
->>>/background
-      
->>>/research    
-
->>/design      
->>>/deliverables
-     
->>>/production  
-      
->>>/images         
-
->>/research
-
-
+```
+/Invo_Projects
+  /ClientName
+    /client
+      /background
+      /research
+    /design
+      /deliverables
+      /production
+      /images
+    /research
+```
 
 For multiple projects for a single client, add projects as directories within Client directory.
 
-
-
-/Invo_Projects  
->/ClientName
->>/Project1       
->>>/client       
-
->>>/design
-
->>/Project2       
->>>/client       
-
->>>/design
-
-
+```
+/Invo_Projects
+  /ClientName
+    /Project1
+      /client
+      /design
+    /Project2
+      /client
+      /design
+```
 
 **Two Weeks before Kickoff**
 
@@ -76,23 +66,19 @@ For multiple projects for a single client, add projects as directories within Cl
 4. Send client and stakeholders the [Kickoff Survey](http://goo.gl/forms/nxb978uXut) and ask them to complete within 2 days. Make sure you’re sending this enough in advance where we’ll have time to review the responses prior to kickoff. Below is an email template to send to the client. At this point, you may not know all the stakeholders, so sending to the client lead and asking to distribute to their team is fine.
 
 
->>Subject: Project Prep&lt;clientName&gt;,  
-
->>I'm &lt;yourName&gt;, lead designer on this project, and we’re looking forward to working with you over the next few months. We are looking to have our kickoff on &lt;suggestedDate/TimeInfo&gt;. Let us know what days/times work best for you, and we'll plan around those.
-
-
-
->>As we put together the schedule for the kickoff, we’d like to hear each person’s  perspective on the project so we can refine that into a single message during the kickoff. Could you and you and your team individually fill out this 7-minute survey by &lt;insertDeadline2businessDaysIdeal&gt;?
-
-
-
->>[http://goo.gl/forms/nxb978uXut](http://goo.gl/forms/nxb978uXut)
-
-
-
->>Thanks,  &lt;yourName&gt;
-
-
+> Subject: Project Prep
+>
+> &lt;clientName&gt;,
+>
+> I'm &lt;yourName&gt;, lead designer on this project, and we’re looking forward to working with you over the next few months. We are looking to have our kickoff on &lt;suggestedDate/TimeInfo&gt;. Let us know what days/times work best for you, and we'll plan around those.
+>
+> As we put together the schedule for the kickoff, we’d like to hear each person’s  perspective on the project so we can refine that into a single message during the kickoff. Could you and you and your team individually fill out this 7-minute survey by &lt;insertDeadline2businessDaysIdeal&gt;?
+>
+> [http://goo.gl/forms/nxb978uXut](http://goo.gl/forms/nxb978uXut)
+>
+> Thanks,
+>
+> &lt;yourName&gt;
 
 
 **One Week before Kickoff**
@@ -110,10 +96,19 @@ Get familiar with handling invoicing for the project.
 - Identify dates for sending invoices and receiving payment. Let sales team know of those dates to update the financial forecast.
 - Be sure to track your time on Staffplan. Check to see if billing is standard, by the hour, or by the hour + type of work. You may need to track your hours more specifically.
 - Create invoice (workflow to be documented) and send to client billing contact on the pre-determined date.
-- Add invoice to the [Dropbox](https://www.dropbox.com/sh/1oldp2ktxjagaat/AADuyPVaCzBoD-MPXoBkkHEja?dl=0) folder `Invo_Projects` &gt; `all_invoices` &gt; `clientName` for our records. See the [Invoice Directory Structure section in File Management](/file-management.html) for more info.
+- Add invoice to the [Dropbox](https://www.dropbox.com/sh/1oldp2ktxjagaat/AADuyPVaCzBoD-MPXoBkkHEja?dl=0) folder `Invo_Projects > all_invoices > clientName` for our records. See the [Invoice Directory Structure section in File Management](/file-management.html) for more info.
 - Follow up when a payment becomes late:
 
->>Subject: Invoice #&lt;invoiceNumber&gt; Involution Studios / We Create Goodness LLCs&lt;billingContactName&gt;,Please see attached Invoice #&lt;invoiceNumber&gt; in the amount of $&lt;invoiceAmount&gt; for &lt;nameOfService - example design consulting&gt; on the &lt;nameOfProject&gt; Project. This is the &lt;currentNumberInvoice&gt; of &lt;totalNumberOfInvoices&gt; invoices you will receive for this project. Payment terms are net 30 days upon receipt of this invoice. Please make checks payable to our parent company, We Create Goodness LLC, EIN #&lt;insertEINNumber).Thanks,&lt;yourName&gt;
+> Subject: Invoice #&lt;invoiceNumber&gt; Involution Studios / We Create Goodness LLCs
+>
+> &lt;billingContactName&gt;,
+>
+> Please see attached Invoice #&lt;invoiceNumber&gt; in the amount of $&lt;invoiceAmount&gt; for &lt;nameOfService - example design consulting&gt; on the &lt;nameOfProject&gt; Project. This is the &lt;currentNumberInvoice&gt; of &lt;totalNumberOfInvoices&gt; invoices you will receive for this project. Payment terms are net 30 days upon receipt of this invoice. Please make checks payable to our parent company, We Create Goodness LLC, EIN #&lt;insertEINNumber&gt;.
+>
+> Thanks,
+>
+> &lt;yourName&gt;
+
 * * *
 
 ## Kickoff
@@ -128,20 +123,28 @@ Get familiar with handling invoicing for the project.
 
 1. Send message to client about communication channel. If we’re using multiple lists, Slack, or Basecamp, then outline that in the message.
 
->>Subject: Project Comm ChannelTeam,
-
->>Message: We've put together an email list for contacting the Invo team. &lt;clientName&gt;-internal@goinvo.comPeople on this list are:&lt;invoNames&gt;Please use this list to keep the Invo team in sync.
-
->>&lt;yourName&gt;
+> Subject: Project Comm Channel Team,
+>
+> Message: We've put together an email list for contacting the Invo team, &lt;clientName&gt;-internal@goinvo.com
+>
+> People on this list are: &lt;invoNames&gt;
+>
+> Please use this list to keep the Invo team in sync.
+>
+> Thanks,
+>
+> &lt;yourName&gt;
 
 1. Send kickoff notes to client within 24 hours. This can be posted on Basecamp.
 2. Send schedule of deliverables to client within 24 hours. This can be posted on Basecamp.
 
->>Subject: Schedule v01Team,
-
->>Message: Attached is the schedule for the project.Our weekly rhythm for reviewing the latest deliverables is:&lt;day&gt;, &lt;timeWindow&gt; @ &lt;location&gt;Our first meeting will be &lt;date&gt;.
-
->>&lt;yourName&gt;
+> Subject: Schedule v01Team,
+>
+> Message: Attached is the schedule for the project.Our weekly rhythm for reviewing the latest deliverables is: &lt;day&gt;, &lt;timeWindow&gt; @ &lt;location&gt;. Our first meeting will be &lt;date&gt;.
+>
+> Thanks,
+>
+> &lt;yourName&gt;
 
 1. Invite all stakeholders to Basecamp project. Add Invoites to Our Team and client team to The Client.
 2. Identify appropriate billing contact and send out first invoice.
@@ -158,9 +161,9 @@ Meet once a week. Face to face is preferred. For remote meetings, use your prefe
 
 Post deliverables on Basecamp 2 hours prior to meeting or the night before. Some clients review the deliverables in advance and come to the meeting ready with feedback. Others use the scheduled time during the meeting to review the latest deliverables. Adjust as needed. Message structure on Basecamp for deliverables:
 
->> Subject: Deliverable name, version number, and current project week with total weeks (ex. 'Create Campaign v04 :: Week 5 of 10').
-
->>Message: (Describe what’s new in the deliverables, what you’d like to discuss in the meeting, and your next steps as you currently know them.)
+> Subject: Deliverable name, version number, and current project week with total weeks (ex. 'Create Campaign v04 :: Week 5 of 10').
+>
+> Message: (Describe what’s new in the deliverables, what you’d like to discuss in the meeting, and your next steps as you currently know them.)
 
 If meeting face to face, then print the deliverables using the large format printer and bring to the meeting. Printed deliverables are helpful for everyone to circle around, discuss, and mark up with feedback. Often, clients will hang these posters in their office for the entire company to have visibility into the design, see progression, and mark up as well.
 
@@ -177,9 +180,9 @@ If meeting face to face, then print the deliverables using the large format prin
 
 Immediately document your notes and post to Basecamp after the meeting. Message structure on Basecamp:
 
->>Subject: Meeting Notes, date of meeting, and current project week with total weeks (ex. 'Meeting Notes, 27.Oct.14 :: Week 8 of 10').
-
->>Message: (Document the feedback, any changes in direction or schedule, and re-iterate what you’ll be working on for next week.)
+> Subject: Meeting Notes, date of meeting, and current project week with total weeks (ex. 'Meeting Notes, 27.Oct.14 :: Week 8 of 10').
+>
+> Message: (Document the feedback, any changes in direction or schedule, and re-iterate what you’ll be working on for next week.)
 
 ### Extra
 
@@ -306,21 +309,21 @@ For Projects involving Code:
 - During a regular meeting, reserve 15 minutes to discuss this list with the client. Get their feedback on the priority.
 - After discussing in person, send out an email summarizing that information. Below is an example.
 
->>Hi all,
-
->>As we discussed today during our meeting, this project will be finishing on Friday, December 18. We will have our final meeting on December 16. Based on the feedback from today's meeting, here is how we will focus during this last 4 weeks.
-
->>-Task 1 discussed at meeting
-
->>-Task 2 discussed at meeting
-
->>-Task 3 discussed at meeting.
-
->>Please let us know if you have any questions.
-
->>Thanks,
-
->>Ben
+> Hi all,
+>
+> As we discussed today during our meeting, this project will be finishing on Friday, December 18. We will have our final meeting on December 16. Based on the feedback from today's meeting, here is how we will focus during this last 4 weeks.
+>
+> - Task 1 discussed at meeting
+>
+> - Task 2 discussed at meeting
+>
+> - Task 3 discussed at meeting.
+>
+> Please let us know if you have any questions.
+>
+> Thanks,
+>
+> Ben
 
 **One Week Before the Project is Complete**
 
@@ -329,19 +332,17 @@ For Projects involving Code:
     - This will allow them to ask any questions about these files.
     - Below is an example e-mail outlining the types of files.
 
->>Hi all,
-
->>We will be posting the final deliverables next Wednesday, and we are available for a wrap-up meeting next week Monday, Tuesday (except 2-3), or Wednesday.As we have discussed, for the final deliverables, we will be providing:
-
->>-Style and functional guidelines in context of the component breakdownreviewer and submitter workflows
-
->>-Final pngs and a link to final PSDs (most likely to large to post)
-
->>-Prototype code for the with 3 scenarios we outlinedLet us know your availability for a wrap-up meeting next week.
-
->>Thank you,
-
->>Jennifer
+> Hi all,
+>
+> We will be posting the final deliverables next Wednesday, and we are available for a wrap-up meeting next week Monday, Tuesday (except 2-3), or Wednesday.As we have discussed, for the final deliverables, we will be providing:
+>
+> - Style and functional guidelines in context of the component breakdownreviewer and submitter workflows
+> - Final pngs and a link to final PSDs (most likely to large to post)
+> - Prototype code for the with 3 scenarios we outlinedLet us know your availability for a wrap-up meeting next week.
+>
+> Thank you,
+>
+> Jennifer
 
 
 
@@ -351,21 +352,17 @@ For Projects involving Code:
 - Deliver all deliverables to the client. Include with these a description of all the deliverables and any notes about them.
 - Here is an example e-mail outlining this information:
 
->>Hello,
-
->>Our engagement with ACME ended last week. This week we were finishing up a Web Based User Interface Design Guide for ACME. The design guide is made up of 3 sections – Principles, Process and Examples. To close out our engagement, we have included all the final deliverables in a dropbox folder that includes the following:
-
->>-Prototypes: The code for the prototypes we developed during the engagement.
-
->>-Web Design Guide: The HTML and CSS for the design guide we prepared.
-
->>-User Research Report: including all of our findings from the user research.
-
->>-Product Ecosystem diagram
-
->>-Screen designs which we have delivered throughout the engagementThanks and we look forward to working with you again. Web-based User Interface Design Guide can be found at: http://code.goinvo.com/acme/guide/ Final Deliverables Dropbox folder: https://www.dropbox.com/sh/ptcanvw9dzz8164/croWcj9h5N
-
->>Reshma
+> Hello,
+>
+> Our engagement with ACME ended last week. This week we were finishing up a Web Based User Interface Design Guide for ACME. The design guide is made up of 3 sections – Principles, Process and Examples. To close out our engagement, we have included all the final deliverables in a dropbox folder that includes the following:
+>
+> - Prototypes: The code for the prototypes we developed during the engagement.
+> - Web Design Guide: The HTML and CSS for the design guide we prepared.
+> - User Research Report: including all of our findings from the user research.
+> - Product Ecosystem diagram
+> - Screen designs which we have delivered throughout the engagementThanks and we look forward to working with you again. Web-based User Interface Design Guide can be found at: http://code.goinvo.com/acme/guide/ Final Deliverables Dropbox folder: https://www.dropbox.com/sh/ptcanvw9dzz8164/croWcj9h5N
+>
+> Reshma
 
 ### After
 
@@ -382,31 +379,37 @@ Within 1 Business Day of Project Completion
 - Within 1 Business Day of Project Completion send final invoice for the project to the client’s billing department. See invoicing above.
 - Within 2 Business Days of Project Completion send each person from the client team the [Client Exit Survey](http://goo.gl/forms/jge3n36Lh1). Here is an email template to individually send to each person from the client team. Optional: Make the message more personal by acknowledging the contribution that person added to the project.
 
->>&lt;clientName&gt;,  We wanted to thank you again for a great project.  We enjoyed  working with you. If there's anything else you need help with in the future, let us know!
-
->>So that we can continue to provide really great work and service,  we'd like to get your honest feedback on how Invo did for the project.  
-
->>Can you fill out this 5 minute survey by tomorrow?  http://goo.gl/forms/jge3n36Lh1Thanks,  &lt;yourName&gt;
+> &lt;clientName&gt;,
+>
+> We wanted to thank you again for a great project. We enjoyed working with you. If there's anything else you need help with in the future, let us know!
+>
+> So that we can continue to provide really great work and service,  we'd like to get your honest feedback on how Invo did for the project.  
+>
+> Can you fill out this 5 minute survey by tomorrow?  http://goo.gl/forms/jge3n36Lh1
+>
+>Thanks,
+>
+>&lt;yourName&gt;
 
 - Within 3 Business Days of Project Completion, complete [Marketing Material Survey](http://goo.gl/forms/SfoP7uYVzR).
 - Within 5 Business Days of Project Completion, review all Exit Survey responses from the [client](https://docs.google.com/a/goinvo.com/spreadsheets/d/1p1QHnFSGsIxQThGMqmQFsbpqUmlYuy04omzCriQd6Gk/edit#gid=290826126) and [Invo](https://docs.google.com/spreadsheets/d/11egUg-2Dkf9f_n0-6ML0xgmJ5zdlv6t2a5iuPSsz5uo/edit#gid=2043445198) and present any interesting findings to the project, leadership, and sales team.
 
 - Send out a Summary of the Project to [boston@goinvo.com](mailto:boston@goinvo.com). Now that the project is complete, take a few minutes to summarize what work Invo did during the project. Summarize it in an e-mail to the full studio.
 
->>Today we are wrapping up our latest gig with ACME Corporation.
-
->>Reshma, Eric and I started working with ACME at the start of February and we've had 2-3 people working on research, design, prototyping, and production code for most of the time since then.
-
->>In the first part of the engagement, Eric led an effort to help ACME re-envision the future of their platform and identify an approach for a scheduled rollout which will take place over the next 2-3 years. To help validate the design and sell the new vision internally and externally, Ivan and I built a series of prototypes which they are still using today to sell their future to important customers.
-
->>Danny and Michael began work on in July on the first set of production code. In addition to executing on the design vision, they have worked with ACME to define the next technology stack(Angular as a client side MVC separated from their API server) that will be used on all their future UI development. They did a good job of involving the UI dev team in the large architectural decisions. Despite the project being understaffed from ACME's side, Michael and Danny were able to deliver a top-notch experience.
-
->>Feedback on the new screen from some of ACME's bigger customers has been very positive thus far and the Product team is very excited about what this new screen will provide. Additionally the team we have been working with have universally echoed the sentiment that this project has been one of the smoothest that they have worked on.
-
->>Here are links to a few videos of the app on the demo environment. I have also attached some screenshots of the before and after.(Link 1)(Link 2)
-
->>Congrats to all that have been involved with ACME over the last 8 months.
-
->>-Ben
+> Today we are wrapping up our latest gig with ACME Corporation.
+>
+> Reshma, Eric and I started working with ACME at the start of February and we've had 2-3 people working on research, design, prototyping, and production code for most of the time since then.
+>
+> In the first part of the engagement, Eric led an effort to help ACME re-envision the future of their platform and identify an approach for a scheduled rollout which will take place over the next 2-3 years. To help validate the design and sell the new vision internally and externally, Ivan and I built a series of prototypes which they are still using today to sell their future to important customers.
+>
+> Danny and Michael began work on in July on the first set of production code. In addition to executing on the design vision, they have worked with ACME to define the next technology stack(Angular as a client side MVC separated from their API server) that will be used on all their future UI development. They did a good job of involving the UI dev team in the large architectural decisions. Despite the project being understaffed from ACME's side, Michael and Danny were able to deliver a top-notch experience.
+>
+> Feedback on the new screen from some of ACME's bigger customers has been very positive thus far and the Product team is very excited about what this new screen will provide. Additionally the team we have been working with have universally echoed the sentiment that this project has been one of the smoothest that they have worked on.
+>
+> Here are links to a few videos of the app on the demo environment. I have also attached some screenshots of the before and after.(Link 1)(Link 2)
+>
+> Congrats to all that have been involved with ACME over the last 8 months.
+>
+> -Ben
 
 - 3 to 6 Months After the Project is Complete, if it makes sense, consider reaching out to the client 3 to 6 months after the project has ended. Ask them how things are going and get some feedback about the work (after they have had more time to really digest and stress test the work we’ve done).
