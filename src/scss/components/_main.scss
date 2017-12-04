@@ -16,7 +16,11 @@
     display: block;
     max-width: 100%;
     margin: 0 auto;
-    padding: 0 ($padding * 2);
+    padding: 0;
+
+    @media only screen and (min-width: $desktop - 200px) {
+      padding: 0 ($padding * 2);
+    }
   }
 
   @media only screen and (min-width: $desktop) {
