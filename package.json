@@ -4,10 +4,11 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "autoprefixer": "^7.2.1",
     "gatsby": "^1.9.123",
     "gatsby-link": "^1.6.28",
+    "gatsby-plugin-postcss-sass": "^1.0.14",
     "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-sass": "^1.0.13",
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-remark-autolink-headers": "^1.4.8",
     "gatsby-source-filesystem": "^1.5.8",

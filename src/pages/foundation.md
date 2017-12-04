@@ -54,7 +54,7 @@ Mobile first design.
 
 It is possible TODAY (ie don’t wait for Godot).
 
-![Whiteboard](/static/overview-13-oct-2017-mind-map.jpg) 
+![Whiteboard](/images/overview-13-oct-2017-mind-map.jpg) 
 
 * * *
 

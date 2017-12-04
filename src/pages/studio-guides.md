@@ -119,10 +119,10 @@ Note: if it’s a minor change like adding a new hire’s bio, fixing a typo, sw
 
 **Prep**
 
-![github_project_step1](/static/github_project_step1.png)
+![github_project_step1](/images/github_project_step1.png)
 1. Make a Project in GitHub that lists why the change is important and scopes out basic steps to completion and deadlines. To make a project, open the goinvo.com or playbook repo → navigate to the Projects tab → click New Project (see image above). 
 
-![github_project_step2](/static/github_project_step2.png) 
+![github_project_step2](/images/github_project_step2.png) 
 2. A GitHub Project can help you to manage tasks and clearly state a mission and timeline. Here is an example of how you can set it up (see image above). In the menu, you can copy [this template](https://docs.google.com/a/wecreategoodness.com/document/d/1qmDXJV_pXpLQkgXlMtDXXw2HUvmvqilbp-RMzBNZLD4/edit?usp=sharing) to outline the mission and timeline.  
 3. Mark your name on weekly Techtalk calendar so that you can get the group’s perspective
 
