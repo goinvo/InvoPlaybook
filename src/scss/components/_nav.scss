@@ -47,6 +47,7 @@ $nav-indicator-size: 7px;
     color: $white;
     text-decoration: none;
     text-transform: uppercase;
+    letter-spacing: 2px;
 
     &:hover,
     &:focus {
@@ -56,6 +57,7 @@ $nav-indicator-size: 7px;
 
     &--subsection {
       text-transform: lowercase;
+      letter-spacing: normal;
     }
   }
 }

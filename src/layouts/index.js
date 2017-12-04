@@ -36,7 +36,7 @@ class Layout extends Component {
 
     this.state = {
       activeSection: activeSection,
-      activeSubsection: activeSection.subsections.length ? activeSection.subsections[0] : undefined
+      activeSubsection: activeSection.subsections.length ? activeSection.subsections[0] : {}
     }
   }
 
@@ -64,7 +64,7 @@ class Layout extends Component {
   render() {
     return (
       <div className="app">
-        { /* Define html head with Helmet */ } 
+        { /* Define html head with Helmet */ }
         <Helmet
           title="GoInvo Playbook"
           meta={[
@@ -78,9 +78,11 @@ class Layout extends Component {
         />
         <Header navItems={ navItems }
                 activeSection={ this.state.activeSection }
+                activeSubsection={ this.state.activeSubsection }
                 onSectionClick={ this.onSectionClick } />
         <Sidebar navItems={ navItems }
                  activeSection={ this.state.activeSection }
+                 activeSubsection={ this.state.activeSubsection }
                  onSectionClick={ this.onSectionClick }
                  onScrollSpyUpdate={ this.onScrollSpyUpdate } />
         <Main>{ this.props.children() }</Main>

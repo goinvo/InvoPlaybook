@@ -21,6 +21,7 @@
 
   @media only screen and (min-width: $desktop) {
     margin-left: $sidebar-width;
+    padding: ($padding * 2) ($padding * 4);
   }
 }
 

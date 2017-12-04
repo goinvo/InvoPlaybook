@@ -7,14 +7,14 @@
   left: 0;
   width: $sidebar-width;
   color: $white;
-  text-shadow: 0 0 3px transparentize($black, .5);
+  text-shadow: 0 0 8px transparentize($black, .5);
   background: url('../assets/images/bg-sidebar.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 
   &__title {
-    padding: $padding;
+    padding: ($padding * 2) $padding 0;
     margin-bottom: 5rem;
   }
 

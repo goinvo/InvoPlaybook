@@ -8,6 +8,7 @@ class NavMenu extends Component {
   static propTypes = {
     items: PropTypes.array.isRequired,
     activeSection: PropTypes.object.isRequired,
+    activeSubsection: PropTypes.object.isRequired,
     onSectionClick: PropTypes.func.isRequired,
     onScrollSpyUpdate: PropTypes.func,
     showSubsections: PropTypes.bool
@@ -48,12 +49,11 @@ class NavMenu extends Component {
                       <Collapse isOpened={this.isActiveSection(section)}>
                         <Scrollspy items={this.getSubsectionSlugs(section)}
                                    className="nav__menu nav__menu--subsection"
-                                   currentClassName="is-current"
                                    onUpdate={ this.onScrollSpyUpdate }>
                           {
                             section.subsections.map((subsection, index) => {
                               return (
-                                <li key={subsection.slug}>
+                                <li key={subsection.slug} className={ `${ subsection === this.props.activeSubsection ? 'is-current' : '' } `}>
                                   <Link to={`${section.slug}#${subsection.slug}`}
                                         className="nav__link nav__link--subsection">
                                     {subsection.value}

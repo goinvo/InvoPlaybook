@@ -11,6 +11,7 @@ class Header extends Component {
   static propTypes = {
     navItems: PropTypes.array.isRequired,
     activeSection: PropTypes.object.isRequired,
+    activeSubsection: PropTypes.object.isRequired,
     onSectionClick: PropTypes.func.isRequired
   }
 
@@ -57,6 +58,7 @@ class Header extends Component {
           <Collapse isOpened={ this.state.isExpanded } springConfig={{stiffness: 1000, damping: 80}}>
             <NavMenu items={ this.props.navItems }
                      activeSection={ this.props.activeSection }
+                     activeSubsection={ this.props.activeSubsection }
                      onSectionClick={ this.onSectionClick }
                      showSubsections={ false } />
           </Collapse>

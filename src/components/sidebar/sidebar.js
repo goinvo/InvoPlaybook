@@ -9,6 +9,7 @@ export default (props) => {
       <div className="sidebar__nav">
         <NavMenu items={ props.navItems }
                  activeSection={ props.activeSection }
+                 activeSubsection={ props.activeSubsection }
                  onSectionClick={ props.onSectionClick }
                  onScrollSpyUpdate={ props.onScrollSpyUpdate }
                  showSubsections={ true }

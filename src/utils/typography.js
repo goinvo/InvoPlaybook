@@ -16,10 +16,18 @@ const typography = new Typography({
     },
     h2: {
       fontSize: '1.75rem',
-      fontWeight: '400'
+      fontWeight: '400',
+      marginTop: rhythm(2),
+      marginBottom: rhythm(1/2)
     },
     h3: {
-      fontWeight: '400'
+      fontWeight: '400',
+      marginTop: rhythm(2),
+      marginBottom: rhythm(1/2)
+    },
+    p: {
+      marginTop: rhythm(1/2),
+      marginBottom: rhythm(1/2)
     }
   })
 })
