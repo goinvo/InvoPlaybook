@@ -3,23 +3,21 @@ title: "Foundation"
 order: 1
 ---
 
-This is the GoInvo Playbook.It’s the gold source reference for learning how to run a project, operate the studio, and why we design.
+This is the GoInvo Playbook.
+
+It’s the gold source reference for learning how to run a project, operate the studio, and why we design.
 
 
-Read it.
-
-Update it.
-
-Share it.
-
+Read it. 
+Update it. 
+Share it. 
 (Yes, it’s open source, licensed under Apache 2.0, and available for the planet to use.)
 
 
 
-If this is your first day, get started with our [Day 1 Checklist](https://docs.google.com/a/wecreategoodness.com/document/d/1SQnsgDSyZPfz6K_YjD3DaWAbZMLWytilcMMGQIWdifk/edit?usp=sharing).Don’t memorize this. These checklists and how-tos are always in your pocket.
+If this is your first day, get started with our [Day 1 Checklist](https://docs.google.com/a/wecreategoodness.com/document/d/1SQnsgDSyZPfz6K_YjD3DaWAbZMLWytilcMMGQIWdifk/edit?usp=sharing). Don’t memorize this. These checklists and how-tos are always in your pocket.
 
 Or bring a shrubbery, not too big or expensive, and [print the whole thing](https://www.urbandictionary.com/define.php?term=SHRUBBERY).
-
 
 
 ## The Imperfect Guide to GoInvo Citizenship
@@ -34,19 +32,17 @@ And repeated success needs to be... repeatable.
 
 
 
-Follow the process.
+Follow the process - most of the time (80%).
 
-Most of the time (80%).When you deviate (the other 20%),
-
-measure the new path’s effectiveness.
+When you deviate (the other 20%), measure the new path’s effectiveness.
 
 
 
-Your input into this guide is vital.
+Your input into this guide is vital. Our evolution as a studio depends on it. 
 
-Our evolution as a studio depends on it.
+Otherwise, our practice becomes stale and limps toward death. 
 
-Otherwise, our practice becomes stale and limps toward death.If you see something funky, fix it.(Any edit follows our GitHub repo checklist.)
+If you see something funky, fix it.(Any edit follows our GitHub repo checklist.)
 
 
 
@@ -57,6 +53,8 @@ Show don’t tell.
 Mobile first design.
 
 It is possible TODAY (ie don’t wait for Godot).
+
+![Whiteboard](/static/overview-13-oct-2017-mind-map.jpg) 
 
 * * *
 
