@@ -21,15 +21,18 @@ class Layout extends Component {
     super();
 
     let activeSection = navItems[0];
-    const pathSections = typeof window !== 'undefined' ? window.location.pathname.split('/') : [];
 
-    // Get the route and set active section if applicable
-    if (pathSections.length >= 2) {
-      const route = pathSections[1];
-      if (route) {
-        const foundSection = navItems.find(section => section.slug === `/${route}/`);
-        if (foundSection) {
-          activeSection = foundSection;
+    if (typeof window !== 'undefined') {
+      const pathSections = window.location.pathname.split('/');
+
+      // Get the route and set active section if applicable
+      if (pathSections.length >= 2) {
+        const route = pathSections[pathSections.length - 2];
+        if (route) {
+          const foundSection = navItems.find(section => section.slug === `/${route}/`);
+          if (foundSection) {
+            activeSection = foundSection;
+          }
         }
       }
     }
