@@ -21,7 +21,7 @@ class Layout extends Component {
     super();
 
     let activeSection = navItems[0];
-    const pathSections = window.location.pathname.split('/');
+    const pathSections = typeof window !== 'undefined' ? window.location.pathname.split('/') : [];
 
     // Get the route and set active section if applicable
     if (pathSections.length >= 2) {
