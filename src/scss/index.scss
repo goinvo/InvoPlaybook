@@ -2,27 +2,11 @@
 
 @import "utils/_includes";
 
+@import "common/_base";
+@import "common/_code";
+
 @import "components/_main";
 @import "components/_nav";
 @import "components/_header";
 @import "components/_sidebar";
 @import "components/_footer";
-
-html,
-body {
-  color: $black--text;
-
-  &.freeze-scrolling {
-    overflow: hidden;
-  }
-}
-
-.app {
-  margin-top: $header-height;
-  margin-bottom: $footer-height;
-
-  @media only screen and (min-width: $desktop) {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-}

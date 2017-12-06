@@ -64,7 +64,7 @@ See also the [deployment](#deployment) section for continuous build/deployment d
 
 `src/pages/`: Mostly markdown files corresponding to each route/page in the app. Pages are written using standard markdown syntax. Any h2 (##) in a markdown file will automatically be added as a subsection of the page in the navigation menu. Any new markdown files added will automatically become pages and sections in the navigation. Each markdown file requires frontmatter `title` and `order` to be set. The `title` is the title of the page and should roughly correspond with filename (where filename is separated by dashes). The filename is also used as the route for the page. The `order` property is used to determine the placement of the item in the navigation list. Note that there is no smart stuff going on here, so if you want to insert a page in the middle or top of a list, you must update all other page's `order` property. Also included here are simple Index and 404 pages (as React components). The Index page is currently configured to redirect (using Netlify) to `/foundation` route.
 
-`src/scss/`: Styles for the site, broken out into component specific files, utilities, variables, and an Index file with imports and broad styles.
+`src/scss/`: Styles for the site, broken out into common style files, component specific files, utilities, variables, and an Index file with combined imports.
 
 `src/templates/`: This contains the template for 'pages', a.k.a. the template that markdown file content is placed inside of. It is very simple for now just setting the page wrapper element and the h1.
 
