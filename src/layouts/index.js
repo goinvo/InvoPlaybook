@@ -2,15 +2,30 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
+import { connect } from 'react-redux'
 
 import Header from '../components/header/header'
 import Main from '../components/main/main'
 import Sidebar from '../components/sidebar/sidebar'
 import Footer from '../components/footer/footer'
 
+import { changePageMountedStatus } from '../redux/redux'
+
 import '../scss/index.scss'
 
 import navItems from '../../data/nav-items.json'
+
+const mapStateToProps = ({ pageMounted }) => {
+  return { pageMounted }
+}
+
+const mapDispatchToProps = (dispatch) => {
+  return {
+    changePageMountedStatus: bool => {
+      dispatch(changePageMountedStatus(bool))
+    }
+  }
+}
 
 class Layout extends Component {
   static propTypes = {
@@ -46,6 +61,11 @@ class Layout extends Component {
   onSectionClick = (section) => (e) => {
     // Reset to top of page (especially if clicking link for page that's already active)
     window.scrollTo(0, 0);
+
+    // react-scrollspy in Sidebar NavMenu tries to read the DOM for elements before
+    // Page component has mounted. So use Redux to flag when Page is mounted and then
+    // let react-scrollspy render (bool value passed as prop 'pageMounted' to Sidebar )
+    this.props.changePageMountedStatus(false);
 
     this.setState({
       activeSection: section,
@@ -87,7 +107,8 @@ class Layout extends Component {
                  activeSection={ this.state.activeSection }
                  activeSubsection={ this.state.activeSubsection }
                  onSectionClick={ this.onSectionClick }
-                 onScrollSpyUpdate={ this.onScrollSpyUpdate } />
+                 onScrollSpyUpdate={ this.onScrollSpyUpdate }
+                 pageMounted={ this.props.pageMounted } />
         <Main>{ this.props.children() }</Main>
         {
           this.state.activeSubsection ?
@@ -100,4 +121,4 @@ class Layout extends Component {
   }
 }
 
-export default Layout
+export default connect(mapStateToProps, mapDispatchToProps)(Layout)

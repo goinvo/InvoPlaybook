@@ -11,6 +11,7 @@ class NavMenu extends Component {
     activeSubsection: PropTypes.object.isRequired,
     onSectionClick: PropTypes.func.isRequired,
     onScrollSpyUpdate: PropTypes.func,
+    pageMounted: PropTypes.bool,
     showSubsections: PropTypes.bool
   }
 
@@ -47,22 +48,26 @@ class NavMenu extends Component {
                   {
                     this.props.showSubsections ?
                       <Collapse isOpened={this.isActiveSection(section)}>
-                        <Scrollspy items={this.getSubsectionSlugs(section)}
-                                   className="nav__menu nav__menu--subsection"
-                                   onUpdate={ this.onScrollSpyUpdate }>
-                          {
-                            section.subsections.map((subsection, index) => {
-                              return (
-                                <li key={subsection.slug} className={ `${ subsection === this.props.activeSubsection ? 'is-current' : '' } `}>
-                                  <Link to={`${section.slug}#${subsection.slug}`}
-                                        className="nav__link nav__link--subsection">
-                                    {subsection.value}
-                                  </Link>
-                                </li>
-                              )
-                            })
-                          }
-                        </Scrollspy>
+                        {
+                          this.props.pageMounted ?
+                            <Scrollspy items={this.getSubsectionSlugs(section)}
+                                       className="nav__menu nav__menu--subsection"
+                                       onUpdate={ this.onScrollSpyUpdate }>
+                              {
+                                section.subsections.map((subsection, index) => {
+                                  return (
+                                    <li key={subsection.slug} className={ `${ subsection === this.props.activeSubsection ? 'is-current' : '' } `}>
+                                      <Link to={`${section.slug}#${subsection.slug}`}
+                                            className="nav__link nav__link--subsection">
+                                        {subsection.value}
+                                      </Link>
+                                    </li>
+                                  )
+                                })
+                              }
+                            </Scrollspy>
+                          : <div></div>
+                        }
                       </Collapse>
                     : null
                   }

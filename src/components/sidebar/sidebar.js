@@ -12,6 +12,7 @@ export default (props) => {
                  activeSubsection={ props.activeSubsection }
                  onSectionClick={ props.onSectionClick }
                  onScrollSpyUpdate={ props.onScrollSpyUpdate }
+                 pageMounted={ props.pageMounted }
                  showSubsections={ true }
         />
       </div>

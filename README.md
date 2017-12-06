@@ -68,7 +68,7 @@ See also the [deployment](#deployment) section for continuous build/deployment d
 
 `src/templates/`: This contains the template for 'pages', a.k.a. the template that markdown file content is placed inside of. It is very simple for now just setting the page wrapper element and the h1.
 
-`src/utils/`: Contains any utility files, for now just typography.js which helps generate consistent typography and spacing styles for text elements using a Gatsby package in `gatsby-config.js`.
+`src/utils/`: Contains any utility files, including constants file and typography.js which helps generate consistent typography and spacing styles for text elements using a Gatsby package in `gatsby-config.js`.
 
 ### Adding packages
 For now we've been using `npm` to add packages to the project. `npm install --save <package>`. From there you'll likely use `gatsby-config.js` to configure and use the package, or import it into your javascript files.
