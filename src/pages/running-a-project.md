@@ -111,6 +111,7 @@ Get familiar with handling invoicing for the project.
 
 * * *
 
+
 ## Kickoff
 
 ### Objectives
@@ -135,8 +136,8 @@ Get familiar with handling invoicing for the project.
 >
 > &lt;yourName&gt;
 
-1. Send kickoff notes to client within 24 hours. This can be posted on Basecamp.
-2. Send schedule of deliverables to client within 24 hours. This can be posted on Basecamp.
+2. Send kickoff notes to client within 24 hours. This can be posted on Basecamp.
+3. Send schedule of deliverables to client within 24 hours. This can be posted on Basecamp.
 
 > Subject: Schedule v01Team,
 >
@@ -146,9 +147,10 @@ Get familiar with handling invoicing for the project.
 >
 > &lt;yourName&gt;
 
-1. Invite all stakeholders to Basecamp project. Add Invoites to Our Team and client team to The Client.
-2. Identify appropriate billing contact and send out first invoice.
+4. Invite all stakeholders to Basecamp project. Add Invoites to Our Team and client team to The Client.
+5. Identify appropriate billing contact and send out first invoice.
 
+* * *
 
 
 ## Weekly Meetings
