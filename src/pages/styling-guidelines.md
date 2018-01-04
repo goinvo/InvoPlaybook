@@ -1,6 +1,7 @@
 ---
 title: "Styling Guidelines"
 order: 5
+hidden: true
 ---
 
 ## Writing Semantic HTML
