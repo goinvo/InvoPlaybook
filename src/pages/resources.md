@@ -11,6 +11,7 @@ Pro tip: Ctrl F can be helpful in this section.
 ### People
 
 - **Bryson** - usability testing, user research methods, information architecture.  
+- **Craig** - !!WARNING: approach wild Craigs with caution. anything software development, system architecture/thinking, prototyping, github, emotional support, synths and sounds, graphic tees 💯, vegan
 - **Edwin** - illustration, information design, visual design, biology/anatomy, literature research methods, go/weiqi/baduk
 - **Eric Bai** - algorithm design, app design and development, research methodology, social services, da hottest reality shows  
 - **Jen** - design feedback, responsive design, tea, crochet
@@ -23,6 +24,7 @@ Pro tip: Ctrl F can be helpful in this section.
 - **[First day checklist](https://docs.google.com/a/wecreategoodness.com/document/d/1SQnsgDSyZPfz6K_YjD3DaWAbZMLWytilcMMGQIWdifk/edit?usp=sharing)** - for new hires
 - **[StaffPlan](http://www.staffplan.com)** - where we log our hours
 - **[Toggl](https://toggl.com/)** - tool for tracking your time
+- **[Virtual Bookshelf](http://www.librarything.com/catalog.php?offset=0&view=jsonin&shelf=shelf)** - all of the books in the GoInvo Library
 
 
 
