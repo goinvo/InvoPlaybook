@@ -74,4 +74,4 @@ See also the [deployment](#deployment) section for continuous build/deployment d
 For now we've been using `npm` to add packages to the project. `npm install --save <package>`. From there you'll likely use `gatsby-config.js` to configure and use the package, or import it into your javascript files.
 
 ### Deployment
-The site is currently deployed using Invo's Netlify account. Any push to branch `2.0` will trigger a build and automatically push to production if successful.
+The site is currently deployed using Invo's Netlify account. Any push to `master` branch will trigger a build and automatically push to production if successful.
