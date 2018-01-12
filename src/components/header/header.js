@@ -61,6 +61,10 @@ class Header extends Component {
                      activeSubsection={ this.props.activeSubsection }
                      onSectionClick={ this.onSectionClick }
                      showSubsections={ false } />
+            <div className="header__external-links">
+              <a className="nav__link" href="mailto:hello@goinvo.com">Feedback</a>
+              <a className="nav__link" href="https://github.com/goinvo/InvoPlaybook" target="_blank">GitHub</a>
+            </div>
           </Collapse>
         </div>
       </header>
