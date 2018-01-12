@@ -12,8 +12,13 @@ export default (props) => {
                  activeSubsection={ props.activeSubsection }
                  onSectionClick={ props.onSectionClick }
                  onScrollSpyUpdate={ props.onScrollSpyUpdate }
+                 pageMounted={ props.pageMounted }
                  showSubsections={ true }
         />
+      </div>
+      <div className="sidebar__footer">
+        <a className="nav__link" href="mailto:hello@goinvo.com">Feedback</a>
+        <a className="nav__link" href="https://github.com/goinvo/InvoPlaybook" target="_blank">GitHub</a>
       </div>
     </aside>
   )

@@ -30,6 +30,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               frontmatter {
                 title
                 order
+                hidden
               }
               fields {
                 slug
@@ -59,13 +60,16 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           delete sub['depth'];
         })
 
-        // Add new top-level sidebar section to sidebar data
-        // including any subsections found
-        navItemData.push({
-          title: node.frontmatter.title,
-          slug: node.fields.slug,
-          subsections: subsections
-        })
+        // So long as this page is intended to be in the nav...
+        if (!node.frontmatter.hidden) {
+          // Add new top-level sidebar section to sidebar data
+          // including any subsections found
+          navItemData.push({
+            title: node.frontmatter.title,
+            slug: node.fields.slug,
+            subsections: subsections
+          })
+        }
 
         // Create a real page from markdown passed into page JS template
         createPage({
