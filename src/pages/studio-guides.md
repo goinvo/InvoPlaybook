@@ -79,8 +79,8 @@ Onboarding is driven by a designated Sherpa. As a studio, we are all accountable
 Immediately
 
 - Arrive to the studio before newbie arrives  
-- Help newbie get set up with devices at their desk while following [security protocol](https://docs.google.com/document/d/1U7QLWaDSa9Sga1HfOElUdLRXhxXRDJ-MQVOOghNscoI/edit#)
-- Help newbie get various accounts set up while following [security protocol](https://docs.google.com/document/d/1U7QLWaDSa9Sga1HfOElUdLRXhxXRDJ-MQVOOghNscoI/edit#)
+- Help newbie get set up with devices at their desk while following [security protocol](https://drive.google.com/open?id=1IEf83pNQJ3NT2Na0QavgKBOA6Sl1aTn4)
+- Help newbie get various accounts set up while following [security protocol](https://drive.google.com/open?id=1IEf83pNQJ3NT2Na0QavgKBOA6Sl1aTn4)
 - Discuss plan for the day over coffee/tea (Set up digitally, Read & reflect, Learn about your project, Slippers)
 
 Before lunch  
