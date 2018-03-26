@@ -88,7 +88,7 @@ Before lunch  
 - Setup tax(W9/IRS ) and healthcare paperwork(if applicable) (Juhan)
 - Check that they are set up on Slack, Github, Dropbox
 - Check if they need any design or engineering software installed (see Resources for list)
-- Newbie should be reading through parts of the Playbook and setting up security on their devices
+- Newbie should be reading through parts of the Playbook and setting up security on their devices 
 
 After lunch
 
