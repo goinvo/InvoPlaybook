@@ -4,22 +4,22 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "autoprefixer": "^7.2.1",
-    "gatsby": "^1.9.123",
-    "gatsby-cli": "^1.1.25",
-    "gatsby-link": "^1.6.28",
-    "gatsby-plugin-postcss-sass": "^1.0.14",
+    "autoprefixer": "^7.2.6",
+    "gatsby": "^1.9.273",
+    "gatsby-cli": "^1.1.58",
+    "gatsby-link": "^1.6.45",
+    "gatsby-plugin-postcss-sass": "^1.0.22",
     "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-typography": "^1.7.10",
-    "gatsby-remark-autolink-headers": "^1.4.8",
-    "gatsby-remark-prismjs": "^1.2.10",
-    "gatsby-source-filesystem": "^1.5.8",
-    "gatsby-transformer-remark": "^1.7.21",
+    "gatsby-plugin-typography": "^1.7.19",
+    "gatsby-remark-autolink-headers": "^1.4.19",
+    "gatsby-remark-prismjs": "^1.2.24",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
     "github-slugger": "^1.2.0",
     "react-collapse": "^4.0.3",
     "react-motion": "^0.5.2",
-    "react-redux": "^5.0.6",
-    "react-scrollspy": "^3.3.4"
+    "react-redux": "^5.0.7",
+    "react-scrollspy": "^3.3.5"
   },
   "keywords": [
     "gatsby"
@@ -33,6 +33,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.8.2"
+    "prettier": "^1.13.7"
   }
 }
