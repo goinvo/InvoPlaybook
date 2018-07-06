@@ -77,12 +77,18 @@ This is descriptive of what is used in the studio, but it is not prescriptive of
 
 - Primary Tool
     - **[Sketch](https://www.sketchapp.com/)** - digital design toolkit for constructing screens and comps. Not PC friendly.
-    - **[XD](http://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=search&s_kwcid=AL!3085!3!232295426045!b!!g!!experience%20design%20adobe&ef_id=V5Za5gAABY4GuEAK:20171117170201:s)** - design, prototype, experience.  
+    - **[XD](http://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=search&s_kwcid=AL!3085!3!232295426045!b!!g!!experience%20design%20adobe&ef_id=V5Za5gAABY4GuEAK:20171117170201:s)** - design, prototype, experience.
+    - **[Figma](https://www.figma.com/)** - web based design and prototyping tool that supports collaboration.
 
 - Prototyping
     - **[Framer](https://framer.com/)** - prototyping via a split screen of simple coffee script on one side and your digital prototype on the other. Great for slick animations/interactions.
     - **[Invision](https://www.invisionapp.com/)** - simplest prototyping system - upload screens and link together.  
     - **[Proto.io](https://proto.io/)** - prototyping tool that’s designer-friendly and high functionality
+
+- Style Guides
+  - **[Zeplin](https://zeplin.io/)** - style guide builder with integrations for Sketch, Figma, and XD.
+
+  - **[Invo Style Guide Template](https://github.com/goinvo/invoStyleGuideTemplate)** - a homegrown style guide template produced by Jen P.
 
 - **[Github](http://github.com)** - version history repository
 - **[Adobe Suite](http://www.adobe.com/creativecloud.html)** - the standard AfterEffects, Photoshop, InDesign, Illustrator
