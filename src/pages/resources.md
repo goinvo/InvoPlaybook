@@ -10,13 +10,14 @@ Pro tip: Ctrl F can be helpful in this section.
 
 ### People
 
-- **Bryson** - usability testing, user research methods, information architecture.  
+- **Bryson** - Usability testing, user research methods, information architecture, 🐨 climbing trees  
 - **Craig** - !!WARNING: approach wild Craigs with caution. anything software development, system architecture/thinking, prototyping, github, emotional support, synths and sounds, graphic tees 💯, vegan
-- **Edwin** - illustration, information design, visual design, biology/anatomy, literature research methods, go/weiqi/baduk
-- **Eric Bai** - algorithm design, app design and development, research methodology, social services, da hottest reality shows  
-- **Jen** - design feedback, responsive design, tea, crochet
-- **Sarah** - photoshop, indesign, after effects, illustration, general office life
-- **Sharon** - design feedback, brainstorming, biomedical engineering, scribing, illustration, ceramics, dance
+- **Dan** - statistics, mathy stuff, science, data/math/quantitative models, brewing 🍻, woodworking/shop
+- **Edwin** - Illustration, information design, visual design, biology/anatomy 💀, literature research methods, go/weiqi/baduk ⚪️ ⚫️ 
+- **Jen** - Design feedback, responsive design, tea, crochet
+- **Parsuree** - 🇹🇭, visual design, concept development, User Interface design, typography, whimsical watercolor, animals, (smelly) food!
+- **Pat** - 🇨🇵🇨🇦, illustration, animations, brainstorming, storytelling, visual design, anatomy, PattyComics©️ 
+- **Sharon** - Typically eager to help, here for: design feedback, a brainstorming pal, scribing practice, or if you want to discuss the future of healthcare, ceramics, contemporary choreography 👯‍♀, ... urban exploration... 
 
 
 ### Other helpful links
