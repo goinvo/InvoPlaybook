@@ -109,42 +109,52 @@ After lunch
 
 * * *
 
-## Evolving our Site
+## How to evolve GoInvo
 
-So you’ve got a grand idea for the website or playbook? Here are a few practical steps (from the project management perspective) to make the change.
-
-
-Note: if it’s a minor change like adding a new hire’s bio, fixing a typo, switching out an image - just discuss it in Slack and do it.
+So you’ve got a grand idea for Invo?
 
 
-**Prep**
-
-![github_project_step1](/images/github_project_step1.png)
-1. Make a Project in GitHub that lists why the change is important and scopes out basic steps to completion and deadlines. To make a project, open the goinvo.com or playbook repo → navigate to the Projects tab → click New Project (see image above). 
-
-![github_project_step2](/images/github_project_step2.png) 
-2. A GitHub Project can help you to manage tasks and clearly state a mission and timeline. Here is an example of how you can set it up (see image above). In the menu, you can copy [this template](https://docs.google.com/a/wecreategoodness.com/document/d/1qmDXJV_pXpLQkgXlMtDXXw2HUvmvqilbp-RMzBNZLD4/edit?usp=sharing) to outline the mission and timeline.  
-3. Mark your name on weekly Techtalk calendar so that you can get the group’s perspective
+Here are a few practical steps to make it happen!
 
 
-**Techtalk**
 
-1. Give a short presentation to explain your idea (length 5 - 10 min can depend on how big of a change it would be).
-2.  Give everyone a chance to discuss then take a vote (Ye or Ne).
-3. If the consensus is Yes, determine who will be a part of the project. Who will lead Engineering, Design, Signoff.  
+**Step 1: Prep**
+- Get your ideas together. It can help to put them into a list or a visual. What's the idea? Why is it important?
+- Make sure that the idea fits into our company's strategy. 
+    - [Here's what you need to know](https://www.dropbox.com/s/hm4rh2v2p8kmoo3/website4.0_need_to_know.png?dl=0)
+    - [Start Here - Design Principles Summary googledoc](https://docs.google.com/document/d/1kmhX_8Y4lNAtXBKhf0OErB5mP74wyqdZ0Yj81E9iT6k/edit?usp=sharing)
+   - [Design Principles Invo Site4.0](https://docs.google.com/a/wecreategoodness.com/document/d/18NHIlAlyYU54HeGCCdGCPAfDWHDV_LeE9I4naqyjFeA/edit?usp=sharing) 
+- If the idea is for the website, make sure that the idea fits in to the website structure - check out the [Site Map in figma](https://www.figma.com/file/QRHUstvGTEQHB0wKaAzWgvIp/Site-Map)
+
+**Step 2: Techtalk**
+- Give a short presentation to explain your idea (length 5 - 10 min can depend on how big of a change it would be).
+- Give everyone a chance to discuss then take a vote (Ye or Ne).
+- If the consensus is Yes, determine who will be a part of the project. Who will lead Engineering, Design, Signoff.  
 
 
-**Work**
+**Step 3: Execute**
+- Set aside time in Staff Plan! 
+    - Most projects never get completed because other projects pop up, and the internal project isn't handed off effectively. 
+    - If you start falling behind schedule and see that you'll run out of time, figure out who can carry on the project without you, so it doesn't fall between the cracks. 
 
-1. Use the Github project to keep track of tasks to be completed and deadlines.  
-2. If the project lasts for more than 2 weeks, give short updates every other week during techtalk time.
-3.  Give a talk at the end of the project as well. The website represents all of us, so it’s important that everyone is included.  
+- Track progress like a hawk
+    - Use the Github project or Asana to keep track of tasks to be completed and deadlines.  
+    - A GitHub Project can help you to manage tasks and clearly state a mission and timeline. Here's an example of how you can set it up (see image below). In the menu, you can copy [this template](https://docs.google.com/a/wecreategoodness.com/document/d/1qmDXJV_pXpLQkgXlMtDXXw2HUvmvqilbp-RMzBNZLD4/edit?usp=sharing) to outline the mission and timeline.  
+    ![github_project_step2](/images/github_project_step2.png) 
+
+- Keep the team up to date.
+    - If the project lasts for more than 2 weeks, give short updates every other week during techtalk time.
+
+- Connect with engineering early
+    - If you aren't the one building the project, make sure to coordinate with the engineer. Show designs and discuss engineering needs. This will help issues come up early so that the project can stay on schedule! 
+
+**Step 3: Wrap up**
+-  Give a talk at the end of the project as well. The website represents all of us, so it’s important that everyone is included.  
+- Celebrate!
 
 
-Suggestions for success:
-
+**Suggestions for success**
 - Take a “design” approach → understand your users, brainstorm, test ideas and screens.  
-- Read through this doc [Design Principles Invo Site4.0](https://docs.google.com/a/wecreategoodness.com/document/d/18NHIlAlyYU54HeGCCdGCPAfDWHDV_LeE9I4naqyjFeA/edit?usp=sharing) which holds research about potential client users, potential hire users, and competitor’s sites.
 - Design mobile first!  
 - Rip off the bandaid when it comes to getting feedback. Show your work often!  
 - Validate your design (via feedback and testing) before valuable time is spent on engineering

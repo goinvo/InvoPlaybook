@@ -2,7 +2,7 @@
 title: "Resources"
 order: 4
 ---
-Education is a glorified list of assets, code, research, and more. The purpose is to conveniently bring together resources for your own education. If you’d like to add something, just do it.
+Resources is a glorified list of assets, code, research, and more. The purpose is to conveniently bring together resources for your own education. If you’d like to add something, just do it.
 
 Pro tip: Ctrl F can be helpful in this section.
 
@@ -13,6 +13,7 @@ Pro tip: Ctrl F can be helpful in this section.
 - **Craig** - !!WARNING: approach wild Craigs with caution. anything software development, system architecture/thinking, prototyping, github, emotional support, synths and sounds, graphic tees 💯, vegan
 - **Dan** - statistics, mathy stuff, science, data/math/quantitative models, brewing 🍻, woodworking/shop
 - **Edwin** - Illustration, information design, visual design, biology/anatomy 💀🥩, literature research methods, go/weiqi/baduk ⚪️⚫️ 
+- **Eric** - Design from pixels to kitchens, 🏒hockey, random studio questions, sketching, cooking
 - **Jen** - Design feedback, responsive design, getting studio keys and MBTA pass, tea, crochet, all things 🐈😻  
 - **Juhan** - 💡 design, critique, howz to dooz biz, estonian pancakes, MIT shenanigans
 - **Parsuree** - 🇹🇭, visual design, concept development, User Interface design, typography, whimsical watercolor, animals, (smelly) food!
@@ -99,7 +100,7 @@ Pro tip: Ctrl F can be helpful in this section.
     - **[Flickr Creative Commons](https://www.flickr.com/creativecommons/)** - photos with various open licenses
     - **[GoInvo Stockphotos Devices](https://www.dropbox.com/home/Graphics/resources/photos-stock_devices)** - This folder contains healthcare envirnments, mockup templates, stockphotos from Death To Stock, and devices.
     - **[Stock Photos that don’t suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)**
-- **[SVG maps](https://www.amcharts.com/svg-maps/?map=world)**
+- **[Free SVG maps](https://www.amcharts.com/svg-maps/?map=world)**
 
 
 ### Design Examples and Inspiration
@@ -154,7 +155,7 @@ This is a comprehensive guide curated by GoInvo to help newcomers to coding lear
 ## Keep Learning
 
   
-  
+
 **[Virtual Bookshelf](http://www.librarything.com/catalog.php?offset=0&view=jsonin&shelf=shelf)** - all of the books in the GoInvo Library
 
 ### Past Research on Specific User Groups
