@@ -9,12 +9,11 @@ Pro tip: Ctrl F can be helpful in this section.
 ## Studio
 
 ### People
-
 - **Bryson** - Usability testing, user research methods, information architecture, 🐨 climbing trees  
 - **Craig** - !!WARNING: approach wild Craigs with caution. anything software development, system architecture/thinking, prototyping, github, emotional support, synths and sounds, graphic tees 💯, vegan
 - **Dan** - statistics, mathy stuff, science, data/math/quantitative models, brewing 🍻, woodworking/shop
 - **Edwin** - Illustration, information design, visual design, biology/anatomy 💀🥩, literature research methods, go/weiqi/baduk ⚪️⚫️ 
-- **Jen** - Design feedback, responsive design, tea, crochet, all things 🐈😻  
+- **Jen** - Design feedback, responsive design, getting studio keys and MBTA pass, tea, crochet, all things 🐈😻  
 - **Juhan** - 💡 design, critique, howz to dooz biz, estonian pancakes, MIT shenanigans
 - **Parsuree** - 🇹🇭, visual design, concept development, User Interface design, typography, whimsical watercolor, animals, (smelly) food!
 - **Pat** - 🇨🇵🇨🇦, illustration, animations, brainstorming, storytelling, visual design, anatomy, PattyComics©️ 
@@ -22,11 +21,9 @@ Pro tip: Ctrl F can be helpful in this section.
 
 
 ### Other helpful links
-
 - **[First day checklist](https://docs.google.com/a/wecreategoodness.com/document/d/1SQnsgDSyZPfz6K_YjD3DaWAbZMLWytilcMMGQIWdifk/edit?usp=sharing)** - for new hires
 - **[StaffPlan](http://www.staffplan.com)** - where we log our hours
 - **[Toggl](https://toggl.com/)** - tool for tracking your time
-- **[Virtual Bookshelf](http://www.librarything.com/catalog.php?offset=0&view=jsonin&shelf=shelf)** - all of the books in the GoInvo Library
 
 
 
@@ -34,36 +31,20 @@ Pro tip: Ctrl F can be helpful in this section.
 
 ## Project Mgmt
 
-### Templates & Surveys
 
+### Tracking Progress
+- **[Asana](https://app.asana.com)** - Asana allows you to assign tasks to users, list end dates, categorize the task, and plot progress in various formats including Kan Ban and Calendar.
+- **[Bandcamp](https://basecamp.com/)** - Basecamp has file storage, task assignment and tracking, schedules, chat and message boards, and more.  
+- **[Github](http://github.com)** - Github has a Project feature where you can create a Kan Ban to track tasks. When Dropbox isn't an option, Github also great for holding project files as it can track versioning with 2-factor authentication security. 
+
+
+### Templates & Surveys
 - **[Client Exit Survey](http://goo.gl/forms/jge3n36Lh1)** - for the client at the end of the project
 - **[Invo Exit Survey](http://goo.gl/forms/N6MZHjiOL3)** - for the Invo team at the end of the project
 - **[Kickoff Survey](http://goo.gl/forms/nxb978uXut)** - for clients and stakeholders at the start of a project
 - **[Kickoff Template](https://docs.google.com/a/wecreategoodness.com/document/d/1nu30LjA4lLMno4o1jPv_-61yTUrpTGPTsQCvln8O2-U/edit?usp=sharing)** - two schedules are outlined (2-day kickoffs and short kickoffs)
 - **[Marketing Material Survey](http://goo.gl/forms/SfoP7uYVzR)** - for the Invo team to help collect any prime work for marketing
-- **Post Mortem** - tool to help evaluate and learn from completed projects
-
-
-
-### User Testing
-
-(on it’s way)
-
-- **Name** - description
-
-
-
-### Conducting Research
-
-(on it’s way)
-
-- **Name** - description
-
-
-
-### Past Health Care Research
-
-- **[Alzheimer’s Research](https://docs.google.com/a/wecreategoodness.com/document/d/1mClqH0oRrgoytlVnV0VqxJhmbScK5MvWBGj-Yy8f1wg/edit?usp=sharing)** - googledoc compiling research about experiencing Alzheimer’s (what’s the diagnosis process like, care, pathology, recent innovation); created by Sharon in preparation for the RIC with Matchstick and Eli Lilly  
+- **[Post Mortem Templates](https://drive.google.com/drive/folders/14qfDvgDMSr6PN01qV1Y8o4Y6cpnBn9jW)** - tool to help evaluate and learn from completed projects. Find a good [example here](https://docs.google.com/document/d/1SuivcCjIqIcTqvdJIx_RRCslc8dfZmRJYgGdomsB6EY/edit)
 
 
 
@@ -71,52 +52,57 @@ Pro tip: Ctrl F can be helpful in this section.
 
 ## Design
 
-### Software & Tools
 
-This is descriptive of what is used in the studio, but it is not prescriptive of what you must use! If you find different software you prefer, purchase it with your company card, add it to this list, and share what you like about it with the studio. Ask Eric Benoit if you need license keys/new software.
-
-
-
-- Primary Tool
+### Design Tools
+- **[Adobe Suite](http://www.adobe.com/creativecloud.html)** - the standard AfterEffects, Photoshop, InDesign, Illustrator.
+- **Interface Design Tools**
+    - **[Figma](https://www.figma.com/)** - web based design and prototyping tool that supports collaboration.
     - **[Sketch](https://www.sketchapp.com/)** - digital design toolkit for constructing screens and comps. Not PC friendly.
     - **[XD](http://www.adobe.com/products/xd.html?sdid=12B9F15S&mv=search&s_kwcid=AL!3085!3!232295426045!b!!g!!experience%20design%20adobe&ef_id=V5Za5gAABY4GuEAK:20171117170201:s)** - design, prototype, experience.
-    - **[Figma](https://www.figma.com/)** - web based design and prototyping tool that supports collaboration.
-
-- Prototyping
-    - **[Framer](https://framer.com/)** - prototyping via a split screen of simple coffee script on one side and your digital prototype on the other. Great for slick animations/interactions.
-    - **[Invision](https://www.invisionapp.com/)** - simplest prototyping system - upload screens and link together.  
-    - **[Proto.io](https://proto.io/)** - prototyping tool that’s designer-friendly and high functionality
-
-- Style Guides
-  - **[Zeplin](https://zeplin.io/)** - style guide builder with integrations for Sketch, Figma, and XD.
-
-  - **[Invo Style Guide Template](https://github.com/goinvo/invoStyleGuideTemplate)** - a homegrown style guide template produced by Jen P.
-
-- **[Github](http://github.com)** - version history repository
-- **[Adobe Suite](http://www.adobe.com/creativecloud.html)** - the standard AfterEffects, Photoshop, InDesign, Illustrator
-- **[WebAim Contrast Checker](https://webaim.org/resources/contrastchecker/)** - make sure your contrast meets accessibility standards  
+- **[Oracle](https://colororacle.org/)** - A colorblindness simulator you need!
+- **[WebAim Contrast Checker](https://webaim.org/resources/contrastchecker/)** - make sure your contrast meets accessibility standards.
+- **[Zeplin](https://zeplin.io/)** - style guide builder with integrations for Sketch, Figma, and XD.
 
 
-### Learn
-
-- **[HCI for low-income, low-literate](https://www.dropbox.com/sh/kgat3nzlyl00s9u/AACLhw3OzYfSRUsIxavCo5rra?dl=0)** - dropbox folder of research papers by Kathryn Summers, Ph.D
+### Design Guides
 - **[IBM Data Visualization](https://www.ibm.com/design/language/experience/data-visualization)** - guidelines for successful & cohesive vis design
+- **Information Architecture (IA)**
+    - **[A Beginner’s Guide to Information Architecture for UX Designers](https://theblog.adobe.com/a-beginners-guide-to-information-architecture-for-ux-designers/)** - Helpful basics about IA
+    - **[Information Architecture. The Most Important Part of Design You’re Probably Overlooking.](https://blog.prototypr.io/information-architecture-the-most-important-part-of-design-youre-probably-overlooking-20372ade4fc0)** - Helpful basics about IA
 - **[Material Design](https://material.io/guidelines/)** - visual language built on basic design principles and the metaphor of physical material. This is a great tool for new designers.
 - **[US Web Design Standards](https://standards.usa.gov/components/)** - UI that meets Accessibility standards
+- **[US Usability Guide](https://www.usability.gov/)** - The what, why, how, and tools for designing usable experiences by the US gov
+
+
+### User Research & Testing Tools
+- **[Framer Prototyping](https://framer.com/)** - prototyping via a split screen of simple coffee script on one side and your digital prototype on the other. Great for slick animations/interactions.
+- **[Invision Prototyping](https://www.invisionapp.com/)** - simplest prototyping system - upload screens and link together. 
+- **[Optimal Workshop User Research](https://www.optimalworkshop.com/features)** - Optimal workshop costs a hefty monthly fee but provides a fantastic set of tests including Tree Tests, Card Sorting, basic Surveys, and more. 
+- **[Proto.io Prototyping](https://proto.io/)** - prototyping tool that’s designer-friendly and high functionality
+- **[Transcription Service for Recordings](https://www.temi.com/)** - This is helpful for transcribing user interviews to search for further insights. 
+
+
+### User Research & Testing Guides
+- **[User Testing Articles from Nielsen Norman Group](https://www.nngroup.com/topic/user-testing/)** - The list includes: _How To Setup a Mobile Usability Test_, _How to Test Visual Design_, _Top 10 Information Architecture (IA) Mistakes_ and more.
+
 
 ### Assets
-
-- **[Dropbox font folder](https://www.dropbox.com/sh/vzjhm276a5jlfll/AACcA5y_4EzvWZU5etMgELpMa?dl=0)** - directory of fonts we’ve purchased
-- **[Dropbox icon folder](https://www.dropbox.com/sh/t67lppsomuns2po/AACMnet4ov7vesi4TpZ4_jxOa?dl=0)** - directory of icons: Helveticons and hand crafted icons
-- **[Flickr Creative Commons](https://www.flickr.com/creativecommons/)** - photos with various open licenses
-- **[Font Squirrel](https://www.fontsquirrel.com/)** - a great place to find free fonts  
-- **[Google Fonts](https://fonts.google.com/)** - great basic font resource
-- **[Noun Project](https://thenounproject.com/)** - a great place to find icons or get ideas for icons. We have a paid account to use them for free without royalty mentions. Ask Sharon.
-- **[Stock Photos that don’t suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)**
+- **[Invo Style Guide Template](https://github.com/goinvo/invoStyleGuideTemplate)** - a homegrown style guide template produced by Jen P.
+- **Fonts**
+    - **[Dropbox font folder](https://www.dropbox.com/sh/vzjhm276a5jlfll/AACcA5y_4EzvWZU5etMgELpMa?dl=0)** - directory of fonts we’ve purchased
+    - **[Font Squirrel](https://www.fontsquirrel.com/)** - a great place to find free fonts  
+    - **[Google Fonts](https://fonts.google.com/)** - great basic font resource
+- **Icons**
+    - **[Dropbox icon folder](https://www.dropbox.com/sh/t67lppsomuns2po/AACMnet4ov7vesi4TpZ4_jxOa?dl=0)** - directory of icons: Helveticons and hand crafted icons
+    - **[Noun Project](https://thenounproject.com/)** - a great place to find icons or get ideas for icons. We have a paid account to use them for free without royalty mentions. Ask Sharon.
+- **Stock Photos**
+    - **[Flickr Creative Commons](https://www.flickr.com/creativecommons/)** - photos with various open licenses
+    - **[GoInvo Stockphotos Devices](https://www.dropbox.com/home/Graphics/resources/photos-stock_devices)** - This folder contains healthcare envirnments, mockup templates, stockphotos from Death To Stock, and devices.
+    - **[Stock Photos that don’t suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)**
 - **[SVG maps](https://www.amcharts.com/svg-maps/?map=world)**
 
-### Examples
 
+### Design Examples and Inspiration
 - **[Accurat](https://www.accurat.it/)** - Milan, NY design firm with beautiful data vis
 - **[Invo Examples ](https://www.dropbox.com/sh/cmkvls3ft1zi9vq/AACRh9bSkIINsJCuh1dXJ1dia?dl=0)** - dropbox folder with examples of our best work
 - **NY Times** - often has great data vis + storytelling  
@@ -126,15 +112,18 @@ This is descriptive of what is used in the studio, but it is not prescriptive of
 
 - **[Pudding.cool](https://pudding.cool/)** - data visualization + storytelling
 
+
 * * *
 
+
 ## Engineering
+
 
 ### [Styling guidelines](/styling-guidelines)
 This is a comprehensive guide curated by GoInvo to help newcomers to coding learn the ways of the force.
 
-### More tools and learning code
 
+### More tools and learning code
 - **[Codeacademy](https://www.codecademy.com/)** - good starting place for picking up the basics or learning new languages
 - **[Codrops](https://tympanus.net/codrops/)** - great snippets and tutorials
 - **[D3](https://d3js.org/)** - JS visualization library
@@ -154,60 +143,66 @@ This is a comprehensive guide curated by GoInvo to help newcomers to coding lear
     - [If interested in Javascript and Javascript framework development](https://www.dropbox.com/sh/t0fwsjlko8l20cm/AACArOwXZUKwjAyAbYF5Um1ca?dl=0)
     - [If interested in an introductory text to common AI techniques](https://www.dropbox.com/s/sf2wfnh9drw5hip/Programming%20Collective%20Intelligence.pdf?dl=0)
 
-### Accounts
 
+### Accounts
 - **[GoInvo GitHub](https://github.com/goinvo)**
 - **Media Temple** - description
 
 
 * * *
 
-## Conferences
+## Keep Learning
 
-### Design
+  
+  
+**[Virtual Bookshelf](http://www.librarything.com/catalog.php?offset=0&view=jsonin&shelf=shelf)** - all of the books in the GoInvo Library
 
-- **MWUX** (oct) - UX design  
-- **UXPA** (may) - UX design  
-- **GET** (april) - human biology  
-- **IxDA** (feb) - largest interaction design  
-- Data viz summit (sep) - data design and analysis
-
-
-### Tech + Design
-
-- **CHI** - human computer interaction
-- **FITC** - a creativity and innovation conference in Toronto
-- **HCI international** - human computer interaction
-- **Open viz conference** - data visualization, information design
-- **Poptech** - design and technology
-- **IEEE vis** - science and information visualization
-- **Intelligent user interfaces** - AI based interface
+### Past Research on Specific User Groups
+- **[Alzheimer’s Research](https://docs.google.com/a/wecreategoodness.com/document/d/1mClqH0oRrgoytlVnV0VqxJhmbScK5MvWBGj-Yy8f1wg/edit?usp=sharing)** - googledoc compiling research about experiencing Alzheimer’s (what’s the diagnosis process like, care, pathology, recent innovation); created by Sharon in preparation for the RIC with Matchstick and Eli Lilly  
+- **[HCI for low-income, low-literate](https://www.dropbox.com/sh/kgat3nzlyl00s9u/AACLhw3OzYfSRUsIxavCo5rra?dl=0)** - dropbox folder of research papers by Kathryn Summers, Ph.D
 
 
-### Design + Medicine
-
-- **Stanford medicine X** - academic medical conference
-- **HXR** - design and medicine
-- **Digital health ACM** - digital health research
-- **IDSA medical design conference** - healthcare products
-- **TEDMED** - health and medicine talks
-- **Human factors and ergonomics and healthcare** -  
-- **Mayo transform** - medicine + design conference hosted by mayo clinic
+### Conferences
+- **Design Conferences**
+    - **MWUX** (oct) - UX design  
+    - **UXPA** (may) - UX design  
+    - **GET** (april) - human biology  
+    - **IxDA** (feb) - largest interaction design  
+    - Data viz summit (sep) - data design and analysis
 
 
-### Tech + Medicine
+- **Tech + Design Conferences**
+    - **CHI** - human computer interaction
+    - **FITC** - a creativity and innovation conference in Toronto
+    - **HCI international** - human computer interaction
+    - **Open viz conference** - data visualization, information design
+    - **Poptech** - design and technology
+    - **IEEE vis** - science and information visualization
+    - **Intelligent user interfaces** - AI based interface
 
-- **HIMSS connected health conference** - digital health conference
-- **Health datapalooza** - health data and health policy
-- **OHDSI bioIT world** - medical informatics
-- **Medical informatics world** - medical informatics
-- **Ihealth clinical informatics** - health informatics
-- **Boston health IT summit** - health informatics
-- **Health 2.0** - healthcare tech conference
 
-### Medicine
+- **Design + Medicine Conferences**
+    - **Stanford medicine X** - academic medical conference
+    - **HXR** - design and medicine
+    - **Digital health ACM** - digital health research
+    - **IDSA medical design conference** - healthcare products
+    - **TEDMED** - health and medicine talks
+    - **Human factors and ergonomics and healthcare** -  
+    - **Mayo transform** - medicine + design conference hosted by mayo clinic
 
-- **APHA** - public health
-- **Festival of genomics** - genetics conference
-- **Mayo clinic individualizing medicine conference** - precision medicine
-- **GET** - genomics and society
+
+- **Tech + Medicine Conferences**
+    - **HIMSS connected health conference** - digital health conference
+    - **Health datapalooza** - health data and health policy
+    - **OHDSI bioIT world** - medical informatics
+    - **Medical informatics world** - medical informatics
+    - **Ihealth clinical informatics** - health informatics
+    - **Boston health IT summit** - health informatics
+    - **Health 2.0** - healthcare tech conference
+
+- **Medicine Conferences**
+    - **APHA** - public health
+    - **Festival of genomics** - genetics conference
+    - **Mayo clinic individualizing medicine conference** - precision medicine
+    - **GET** - genomics and society
+
