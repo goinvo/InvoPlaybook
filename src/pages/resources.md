@@ -163,56 +163,57 @@ This is a comprehensive guide curated by GoInvo to help newcomers to coding lear
 
 ###Recommended Reading
 ####On healthcare
-1. An American Sickness - Elizabeth Rosenthal (red book spine)
-2. The Patient Will See You Now - Eric Topol (red)
+1. [An American Sickness](https://www.amazon.com/American-Sickness-Healthcare-Became-Business/dp/0143110853/) - Elizabeth Rosenthal
+2. The Patient Will See You Now - Eric Topol (red book spine)
 3. America’s Bitter Pill - Steven Brill
-4. Understanding Healthcare - Richard Saul Wurman
-5. Being Mortal - Atul Gawande
+4. Understanding Healthcare - Richard Saul Wurman (white book spine)
+5. [Being Mortal](https://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/1250076226/) - Atul Gawande
 6. Health Justice Now - Timothy Faust
-7. Doctored - Sandeep Jauhar
-8. Deep Medicine - Eric Topol
-9. Better - Atul Gawande
-10. Is Medicine Still Good for Us? - Julian Sheather | Thames & Hudson
-11. Our Bodies, Our Data - Adam Tanner (black)
-12. What Patients Say, What Doctors Hear - Danielle Ofri
-13. Redefining Healthcare - Michael E Porter and Elizabeth Olmsted Teisberg
+7. [Doctored](https://www.amazon.com/Doctored-Disillusionment-Physician-Sandeep-Jauhar/dp/0374535337/ref=sr_1_1?keywords=doctored&qid=1582746963&sr=8-1) - Sandeep Jauhar
+8. Deep Medicine - Eric Topol (audio section)
+9. Better - Atul Gawande (audio section)
+10. Is Medicine Still Good for Us? - Julian Sheather | Thames & Hudson (teal book spine)
+11. Our Bodies, Our Data - Adam Tanner (black book spine)
+12. [What Patients Say, What Doctors Hear](https://www.amazon.com/What-Patients-Say-Doctors-Hear/dp/0807062634) - Danielle Ofri
+13. [Redefining Healthcare](https://www.amazon.com/Redefining-Health-Care-Value-Based-Competition/dp/1591397782/) - Michael E Porter and Elizabeth Olmsted Teisberg
 
 
 ####On design
-1. Designing for People - Henry Dreyfuss
+1. Designing for People - Henry Dreyfuss (white book spine)
 2. The Design of Everyday Things - Donald A Norman
-3. Atomic Design - Brad Frost
-4. The Elements of Style - William Strunk (white)
-5. Art Matters - Neil Gaiman
-6. The Creative Habit - Twyla Tharp (white)
-7. Health Design Thinking - Bon Ku, Ellen Lupton (red)
-8. On Web Typography - Jason Santa Maria | A Book Apart (red)
-9. Responsive Web Design - Ethan Marcotte | A Book Apart (yellow)
-10. Mobile First - Luke Wroblewski | A Book Apart (green)
-11. Inspired EHRs - Jeff Belden, Jennifer Patel (white)
+3. [Atomic Design](https://atomicdesign.bradfrost.com/) - Brad Frost
+4. The Elements of Style - William Strunk (white book spine)
+5. The Artist's Way - Julia Cameron (red book spine)
+5. Art Matters - Neil Gaiman (blue book spine)
+6. The Creative Habit - Twyla Tharp (white book spine)
+7. Health Design Thinking - Bon Ku, Ellen Lupton (red book spine)
+8. On Web Typography - Jason Santa Maria | A Book Apart (red book spine)
+9. Responsive Web Design - Ethan Marcotte | A Book Apart (yellow book spine)
+10. Mobile First - Luke Wroblewski | A Book Apart (green book spine)
+11. Inspired EHRs - Jeff Belden, Jennifer Patel (white book spine)
 
 
 ####On business
-1. Getting Real - Fried, Hannsson, Basecamp
-2. Principles - Ray Dalio
-3. Good to Great - James C. Collins
-4. Is Capitalism working? - Jacob Field | Thames & Hudson
-5. You’re My Favorite Client - Mike Monteiro | A Book Apart (green)
-6. It doesn’t have to be crazy at work - Jason Fried and David Heinemeier Hansson (white)
+1. [Getting Real](https://www.amazon.com/Getting-Real-Smarter-Successful-Application/dp/0578012812/) -  Jason Fried, David Heinemeier Hansson, Basecamp
+2. [Principles](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/) - Ray Dalio
+3. Good to Great - James C. Collins (red book spine)
+4. Is Capitalism working? - Jacob Field | Thames & Hudson (yellow book spine)
+5. You’re My Favorite Client - Mike Monteiro | A Book Apart (green book spine)
+6. It doesn’t have to be crazy at work - Jason Fried and David Heinemeier Hansson (black book spine)
 
 ####On society X technology
-1. Automating Inequality - Virginia Eubanks
-2. Hello World - Hannah Fry (white)
-3. The Age of Surveillance Capitalism - Shoshana Zuboff
+1. Automating Inequality - Virginia Eubanks (white book spine)
+2. Hello World - Hannah Fry (white book spine)
+3. [The Age of Surveillance Capitalism](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/) - Shoshana Zuboff
 4. They Don’t Represent Us - Lawrence Lessig
 5. Corporations are Not People - Jeffrey D. Clements
-6. Breaking Through Power - Ralph Nader
-7. Weapons of Math Destruction - Cathy O'Neil
-8. Is Democracy Failing? - Niheer Dasandi | Thames & Hudson
-9. On Tyranny - Timothy Snyder
-10. These Truths - Jill Lepore
-11. The Color of Law - Richard Rothstein
-12. The Open Organization - Jim Whitehurst
+6. Breaking Through Power - Ralph Nader (black book spine)
+7. Weapons of Math Destruction - Cathy O'Neil (yellow book spine)
+8. Is Democracy Failing? - Niheer Dasandi | Thames & Hudson (red book spine)
+9. [On Tyranny](https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119/) - Timothy Snyder
+10. [These Truths](https://www.amazon.com/These-Truths-History-United-States/dp/0393357422/) - Jill Lepore
+11. [The Color of Law](https://www.amazon.com/Color-Law-Forgotten-Government-Segregated/dp/1631494538/) - Richard Rothstein
+12. [The Open Organization](https://www.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/) - Jim Whitehurst
 
 
 ### Conferences
