@@ -9,16 +9,15 @@ Pro tip: Ctrl F can be helpful in this section.
 ## Studio
 
 ### People
-- **Bryson** - Usability testing, user research methods, information architecture, 🐨 climbing trees  
+- **Colleen** -  Dancing! Illustration, being smol, crochet
 - **Craig** - !!WARNING: approach wild Craigs with caution. anything software development, system architecture/thinking, prototyping, github, emotional support, synths and sounds, graphic tees 💯, vegan
 - **Dan** - statistics, mathy stuff, science, data/math/quantitative models, brewing 🍻, woodworking/shop
-- **Edwin** - Illustration, information design, visual design, biology/anatomy 💀🥩, literature research methods, go/weiqi/baduk ⚪️⚫️ 
 - **Eric** - Design from pixels to kitchens, 🏒hockey, random studio questions, sketching, cooking
-- **Jen** - Design feedback, responsive design, getting studio keys and MBTA pass, tea, crochet, all things 🐈😻  
+- **Jen** - Design feedback, responsive design, getting studio keys and MBTA pass, finding things in the studio, tea, crochet, all things 🐈😻  
 - **Juhan** - 💡 design, critique, howz to dooz biz, estonian pancakes, MIT shenanigans
 - **Parsuree** - 🇹🇭, visual design, concept development, User Interface design, typography, whimsical watercolor, animals, (smelly) food!
-- **Pat** - 🇨🇵🇨🇦, illustration, animations, brainstorming, storytelling, visual design, anatomy, PattyComics©️ 
-- **Sharon** - Typically eager to help, here for: design feedback, a brainstorming pal, scribing practice, or if you want to discuss the future of healthcare, ceramics, contemporary choreography 👯‍♀, ... urban exploration... 
+- **Pat** - 🇨🇵🇨🇦, illustration, animations, brainstorming, storytelling, visual design, anatomy, PattyComics©️
+- **Sharon** - Typically eager to help, here for: design feedback, a brainstorming pal, scribing practice, or if you want to discuss the future of healthcare, ceramics, contemporary choreography 👯‍♀, ... urban exploration...
 
 
 ### Other helpful links
@@ -35,8 +34,8 @@ Pro tip: Ctrl F can be helpful in this section.
 
 ### Tracking Progress
 - **[Asana](https://app.asana.com)** - Asana allows you to assign tasks to users, list end dates, categorize the task, and plot progress in various formats including Kan Ban and Calendar.
-- **[Bandcamp](https://basecamp.com/)** - Basecamp has file storage, task assignment and tracking, schedules, chat and message boards, and more.  
-- **[Github](http://github.com)** - Github has a Project feature where you can create a Kan Ban to track tasks. When Dropbox isn't an option, Github also great for holding project files as it can track versioning with 2-factor authentication security. 
+- **[Trello](https://trello.com/en-US)** - Trello lets you make lists and tag list items in the Kan Ban style.
+- **[Github](http://github.com)** - Github has a Project feature where you can create a Kan Ban to track tasks. When Dropbox isn't an option, Github also great for holding project files as it can track versioning with 2-factor authentication security.
 
 
 ### Templates & Surveys
@@ -77,10 +76,10 @@ Pro tip: Ctrl F can be helpful in this section.
 
 ### User Research & Testing Tools
 - **[Framer Prototyping](https://framer.com/)** - prototyping via a split screen of simple coffee script on one side and your digital prototype on the other. Great for slick animations/interactions.
-- **[Invision Prototyping](https://www.invisionapp.com/)** - simplest prototyping system - upload screens and link together. 
-- **[Optimal Workshop User Research](https://www.optimalworkshop.com/features)** - Optimal workshop costs a hefty monthly fee but provides a fantastic set of tests including Tree Tests, Card Sorting, basic Surveys, and more. 
+- **[Invision Prototyping](https://www.invisionapp.com/)** - simplest prototyping system - upload screens and link together.
+- **[Optimal Workshop User Research](https://www.optimalworkshop.com/features)** - Optimal workshop costs a hefty monthly fee but provides a fantastic set of tests including Tree Tests, Card Sorting, basic Surveys, and more.
 - **[Proto.io Prototyping](https://proto.io/)** - prototyping tool that’s designer-friendly and high functionality
-- **[Transcription Service for Recordings](https://www.temi.com/)** - This is helpful for transcribing user interviews to search for further insights. 
+- **[Transcription Service for Recordings](https://www.temi.com/)** - This is helpful for transcribing user interviews to search for further insights.
 
 
 ### User Research & Testing Guides
@@ -154,13 +153,66 @@ This is a comprehensive guide curated by GoInvo to help newcomers to coding lear
 
 ## Keep Learning
 
-  
+
 
 **[Virtual Bookshelf](http://www.librarything.com/catalog.php?offset=0&view=jsonin&shelf=shelf)** - all of the books in the GoInvo Library
 
 ### Past Research on Specific User Groups
 - **[Alzheimer’s Research](https://docs.google.com/a/wecreategoodness.com/document/d/1mClqH0oRrgoytlVnV0VqxJhmbScK5MvWBGj-Yy8f1wg/edit?usp=sharing)** - googledoc compiling research about experiencing Alzheimer’s (what’s the diagnosis process like, care, pathology, recent innovation); created by Sharon in preparation for the RIC with Matchstick and Eli Lilly  
 - **[HCI for low-income, low-literate](https://www.dropbox.com/sh/kgat3nzlyl00s9u/AACLhw3OzYfSRUsIxavCo5rra?dl=0)** - dropbox folder of research papers by Kathryn Summers, Ph.D
+
+###Recommended Reading
+####On healthcare
+1. An American Sickness - Elizabeth Rosenthal (red book spine)
+2. The Patient Will See You Now - Eric Topol (red)
+3. America’s Bitter Pill - Steven Brill
+4. Understanding Healthcare - Richard Saul Wurman
+5. Being Mortal - Atul Gawande
+6. Health Justice Now - Timothy Faust
+7. Doctored - Sandeep Jauhar
+8. Deep Medicine - Eric Topol
+9. Better - Atul Gawande
+10. Is Medicine Still Good for Us? - Julian Sheather | Thames & Hudson
+11. Our Bodies, Our Data - Adam Tanner (black)
+12. What Patients Say, What Doctors Hear - Danielle Ofri
+13. Redefining Healthcare - Michael E Porter and Elizabeth Olmsted Teisberg
+
+
+####On design
+1. Designing for People - Henry Dreyfuss
+2. The Design of Everyday Things - Donald A Norman
+3. Atomic Design - Brad Frost
+4. The Elements of Style - William Strunk (white)
+5. Art Matters - Neil Gaiman
+6. The Creative Habit - Twyla Tharp (white)
+7. Health Design Thinking - Bon Ku, Ellen Lupton (red)
+8. On Web Typography - Jason Santa Maria | A Book Apart (red)
+9. Responsive Web Design - Ethan Marcotte | A Book Apart (yellow)
+10. Mobile First - Luke Wroblewski | A Book Apart (green)
+11. Inspired EHRs - Jeff Belden, Jennifer Patel (white)
+
+
+####On business
+1. Getting Real - Fried, Hannsson, Basecamp
+2. Principles - Ray Dalio
+3. Good to Great - James C. Collins
+4. Is Capitalism working? - Jacob Field | Thames & Hudson
+5. You’re My Favorite Client - Mike Monteiro | A Book Apart (green)
+6. It doesn’t have to be crazy at work - Jason Fried and David Heinemeier Hansson (white)
+
+####On society X technology
+1. Automating Inequality - Virginia Eubanks
+2. Hello World - Hannah Fry (white)
+3. The Age of Surveillance Capitalism - Shoshana Zuboff
+4. They Don’t Represent Us - Lawrence Lessig
+5. Corporations are Not People - Jeffrey D. Clements
+6. Breaking Through Power - Ralph Nader
+7. Weapons of Math Destruction - Cathy O'Neil
+8. Is Democracy Failing? - Niheer Dasandi | Thames & Hudson
+9. On Tyranny - Timothy Snyder
+10. These Truths - Jill Lepore
+11. The Color of Law - Richard Rothstein
+12. The Open Organization - Jim Whitehurst
 
 
 ### Conferences
@@ -206,4 +258,3 @@ This is a comprehensive guide curated by GoInvo to help newcomers to coding lear
     - **Festival of genomics** - genetics conference
     - **Mayo clinic individualizing medicine conference** - precision medicine
     - **GET** - genomics and society
-
