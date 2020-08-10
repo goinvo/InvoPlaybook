@@ -11,12 +11,11 @@ Pro tip: Ctrl F can be helpful in this section.
 ### People
 - **Colleen** -  Dancing! Illustration, being smol, crochet
 - **Craig** - !!WARNING: approach wild Craigs with caution. anything software development, system architecture/thinking, prototyping, github, emotional support, synths and sounds, graphic tees 💯, vegan
-- **Dan** - statistics, mathy stuff, science, data/math/quantitative models, brewing 🍻, woodworking/shop
+- **Dan** - statistics, mathy stuff, science, data/math/quantitative models, brewing 🍻, woodworking/shop, resident Figma genius
 - **Eric** - Design from pixels to kitchens, 🏒hockey, random studio questions, sketching, cooking
-- **Jen** - Design feedback, responsive design, getting studio keys and MBTA pass, finding things in the studio, tea, crochet, all things 🐈😻  
-- **Juhan** - 💡 design, critique, howz to dooz biz, estonian pancakes, MIT shenanigans
+- **Jen** - Design feedback, responsive design, getting MBTA passes, finding things in the studio, tea, crochet, all things 🐈😻  
+- **Juhan** - 💡 design, critique, howz to dooz biz, Estonian pancakes, MIT shenanigans
 - **Parsuree** - 🇹🇭, visual design, concept development, User Interface design, typography, whimsical watercolor, animals, (smelly) food!
-- **Pat** - 🇨🇵🇨🇦, illustration, animations, brainstorming, storytelling, visual design, anatomy, PattyComics©️
 - **Sharon** - Typically eager to help, here for: design feedback, a brainstorming pal, scribing practice, or if you want to discuss the future of healthcare, ceramics, contemporary choreography 👯‍♀, ... urban exploration...
 
 
@@ -87,13 +86,13 @@ Pro tip: Ctrl F can be helpful in this section.
 
 
 ### Assets
-- **[Invo Style Guide Template](https://github.com/goinvo/invoStyleGuideTemplate)** - a homegrown style guide template produced by Jen P.
+- **[GoInvo Figma Styles and Templates](https://www.figma.com/files/project/2027840/GoInvo-Styles-%26-Templates)** - a homegrown style guide template produced by Jen P.
 - **Fonts**
-    - **[Dropbox font folder](https://www.dropbox.com/sh/vzjhm276a5jlfll/AACcA5y_4EzvWZU5etMgELpMa?dl=0)** - directory of fonts we’ve purchased
+    - **[Dropbox font folder](https://www.dropbox.com/sh/hzim4pzj6dja0y7/AABgOyUdwT6HdfLnpeg4FJcUa?dl=0)** - directory of fonts we’ve purchased
     - **[Font Squirrel](https://www.fontsquirrel.com/)** - a great place to find free fonts  
-    - **[Google Fonts](https://fonts.google.com/)** - great basic font resource
+    - **[Google Fonts](https://fonts.google.com/)** - a great place to find free open source fonts
 - **Icons**
-    - **[Dropbox icon folder](https://www.dropbox.com/sh/t67lppsomuns2po/AACMnet4ov7vesi4TpZ4_jxOa?dl=0)** - directory of icons: Helveticons and hand crafted icons
+    - **[Dropbox icon folder](https://www.dropbox.com/sh/pjff4inqs56fwq4/AAAQFPV6nEj6UQnfpOZv5fhda?dl=0)** - directory of icons: Helveticons and hand crafted icons, also found in Figma
     - **[Noun Project](https://thenounproject.com/)** - a great place to find icons or get ideas for icons. We have a paid account to use them for free without royalty mentions. Ask Sharon.
 - **Stock Photos**
     - **[Flickr Creative Commons](https://www.flickr.com/creativecommons/)** - photos with various open licenses
@@ -214,6 +213,7 @@ This is a comprehensive guide curated by GoInvo to help newcomers to coding lear
 10. [These Truths](https://www.amazon.com/These-Truths-History-United-States/dp/0393357422/) - Jill Lepore
 11. [The Color of Law](https://www.amazon.com/Color-Law-Forgotten-Government-Segregated/dp/1631494538/) - Richard Rothstein
 12. [The Open Organization](https://www.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/) - Jim Whitehurst
+13. Unrig: How to Fix our Broken Democracy - Daniel G. Newman and George O'Connor 
 
 
 ### Conferences

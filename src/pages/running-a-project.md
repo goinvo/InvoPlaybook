@@ -3,7 +3,7 @@ title: "Running a Project"
 order: 2
 ---
 
-This section is an in depth guide for newer Invoites and a great reference for those who run projects often. Projects come in all shapes and sizes, but these basics can help you stay organized and keep perspective.
+This section is an in-depth guide for newer Invoites and a great reference for those who run projects often. Projects come in all shapes and sizes, but these basics can help you stay organized and keep perspective.
  
 
 ## Pre-Kickoff
@@ -83,8 +83,7 @@ For multiple projects for a single client, add projects as directories within Cl
 
 **One Week before Kickoff**
 
-1. Create Basecamp project. Project name should follow ClientName: ProjectName (ex. DataXu: Forecasting). An admin of Basecamp will need to set this up. Just ask if you need help
-2. Request any preliminary materials from the client they think will help prepare for the project, and request client product, software, or VPN access as early as possible when applicable.
+Request any preliminary materials from the client they think will help prepare for the project, and request client product, software, or VPN access as early as possible when applicable.
 
 
 **Invoicing**
@@ -117,12 +116,12 @@ Get familiar with handling invoicing for the project.
 ### Objectives
 
 - Review Statement of Work
-- Create project schedule, including regular meetings and weekly deliverables. Share with all stakeholders on Basecamp
+- Create project schedule, including regular meetings and weekly deliverables. Share with all stakeholders via email
 - Create project spec 1-pager document. Example to be created.
 
 ### Follow up
 
-1. Send message to client about communication channel. If we’re using multiple lists, Slack, or Basecamp, then outline that in the message.
+1. Send message to client about communication channel. If we’re using multiple lists or Slack, then outline that in the message.
 
 > Subject: Project Comm Channel Team,
 >
@@ -136,8 +135,8 @@ Get familiar with handling invoicing for the project.
 >
 > &lt;yourName&gt;
 
-2. Send kickoff notes to client within 24 hours. This can be posted on Basecamp.
-3. Send schedule of deliverables to client within 24 hours. This can be posted on Basecamp.
+2. Send kickoff notes to client within 24 hours.
+3. Send schedule of deliverables to client within 24 hours.
 
 > Subject: Schedule v01Team,
 >
@@ -147,8 +146,7 @@ Get familiar with handling invoicing for the project.
 >
 > &lt;yourName&gt;
 
-4. Invite all stakeholders to Basecamp project. Add Invoites to Our Team and client team to The Client.
-5. Identify appropriate billing contact and send out first invoice.
+4. Identify appropriate billing contact and send out first invoice.
 
 * * *
 
@@ -157,11 +155,11 @@ Get familiar with handling invoicing for the project.
 
 ### Logistics
 
-Meet once a week. Face to face is preferred. For remote meetings, use your preferred communication channel: GoToMeeting, Google Hangout, Skype, Phone. Duration: 1 to 1.5 hours. Adjust as needed.
+Meet once a week. Face to face is preferred. For remote meetings, use your preferred communication channel: Zoom, Google Hangout, Skype, Phone. Duration: 1 to 1.5 hours. Adjust as needed.
 
 ### Prep
 
-Post deliverables on Basecamp 2 hours prior to meeting or the night before. Some clients review the deliverables in advance and come to the meeting ready with feedback. Others use the scheduled time during the meeting to review the latest deliverables. Adjust as needed. Message structure on Basecamp for deliverables:
+Email deliverables at least 2 hours prior to meeting or the night before. Some clients review the deliverables in advance and come to the meeting ready with feedback. Others use the scheduled time during the meeting to review the latest deliverables. Adjust as needed. Message structure for deliverables:
 
 > Subject: Deliverable name, version number, and current project week with total weeks (ex. 'Create Campaign v04 :: Week 5 of 10').
 >
@@ -180,7 +178,7 @@ If meeting face to face, then print the deliverables using the large format prin
 
 ### Post Meeting
 
-Immediately document your notes and post to Basecamp after the meeting. Message structure on Basecamp:
+Immediately document your notes and email summary after the meeting. Message structure:
 
 > Subject: Meeting Notes, date of meeting, and current project week with total weeks (ex. 'Meeting Notes, 27.Oct.14 :: Week 8 of 10').
 >
@@ -270,7 +268,7 @@ Look to [Project MGMT Resources](https://docs.google.com/a/wecreategoodness.com/
 
 For Design Projects:
 
-- Final design files (PSD, XD, Sketch, Indd) - Layers should be clearly grouped and labeled
+- Final design files (PSD, XD, Sketch, Indd, Fig) - Layers should be clearly grouped and labeled
 - Final designs as PDF or presentation for the client to review and socialize among stakeholders
 - Final PNG files - Fullsize (or 2x), lossless PNGs as zip, organized by workflow (or otherwise understandable)
 - Final icon library as svg (optional, but nice handoff to engineering)
